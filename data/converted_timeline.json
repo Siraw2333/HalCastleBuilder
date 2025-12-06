@@ -1,0 +1,4448 @@
+[
+  {
+    "time_sec": 0.58,
+    "minecraft_tick": 12,
+    "type": "onset",
+    "original_tick": 11
+  },
+  {
+    "time_sec": 0.604,
+    "minecraft_tick": 12,
+    "type": "beat",
+    "original_tick": 12
+  },
+  {
+    "time_sec": 0.929,
+    "minecraft_tick": 19,
+    "type": "onset",
+    "original_tick": 18
+  },
+  {
+    "time_sec": 1.161,
+    "minecraft_tick": 23,
+    "type": "onset",
+    "original_tick": 23
+  },
+  {
+    "time_sec": 1.184,
+    "minecraft_tick": 24,
+    "type": "beat",
+    "original_tick": 23
+  },
+  {
+    "time_sec": 1.44,
+    "minecraft_tick": 29,
+    "type": "onset",
+    "original_tick": 28
+  },
+  {
+    "time_sec": 1.695,
+    "minecraft_tick": 34,
+    "type": "onset",
+    "original_tick": 33
+  },
+  {
+    "time_sec": 1.718,
+    "minecraft_tick": 34,
+    "type": "beat",
+    "original_tick": 34
+  },
+  {
+    "time_sec": 1.95,
+    "minecraft_tick": 39,
+    "type": "onset",
+    "original_tick": 39
+  },
+  {
+    "time_sec": 2.206,
+    "minecraft_tick": 44,
+    "type": "onset",
+    "original_tick": 44
+  },
+  {
+    "time_sec": 2.368,
+    "minecraft_tick": 47,
+    "type": "beat",
+    "original_tick": 47
+  },
+  {
+    "time_sec": 2.485,
+    "minecraft_tick": 50,
+    "type": "onset",
+    "original_tick": 49
+  },
+  {
+    "time_sec": 2.74,
+    "minecraft_tick": 55,
+    "type": "onset",
+    "original_tick": 54
+  },
+  {
+    "time_sec": 2.972,
+    "minecraft_tick": 59,
+    "type": "onset",
+    "original_tick": 59
+  },
+  {
+    "time_sec": 2.995,
+    "minecraft_tick": 60,
+    "type": "beat",
+    "original_tick": 59
+  },
+  {
+    "time_sec": 3.251,
+    "minecraft_tick": 65,
+    "type": "onset",
+    "original_tick": 65
+  },
+  {
+    "time_sec": 3.506,
+    "minecraft_tick": 70,
+    "type": "onset",
+    "original_tick": 70
+  },
+  {
+    "time_sec": 3.692,
+    "minecraft_tick": 74,
+    "type": "beat",
+    "original_tick": 73
+  },
+  {
+    "time_sec": 3.831,
+    "minecraft_tick": 77,
+    "type": "onset",
+    "original_tick": 76
+  },
+  {
+    "time_sec": 4.11,
+    "minecraft_tick": 82,
+    "type": "onset",
+    "original_tick": 82
+  },
+  {
+    "time_sec": 4.342,
+    "minecraft_tick": 87,
+    "type": "onset",
+    "original_tick": 86
+  },
+  {
+    "time_sec": 4.365,
+    "minecraft_tick": 87,
+    "type": "beat",
+    "original_tick": 87
+  },
+  {
+    "time_sec": 4.621,
+    "minecraft_tick": 92,
+    "type": "onset",
+    "original_tick": 92
+  },
+  {
+    "time_sec": 4.899,
+    "minecraft_tick": 98,
+    "type": "onset",
+    "original_tick": 97
+  },
+  {
+    "time_sec": 4.946,
+    "minecraft_tick": 99,
+    "type": "beat",
+    "original_tick": 98
+  },
+  {
+    "time_sec": 5.201,
+    "minecraft_tick": 104,
+    "type": "onset",
+    "original_tick": 104
+  },
+  {
+    "time_sec": 5.55,
+    "minecraft_tick": 111,
+    "type": "onset",
+    "original_tick": 110
+  },
+  {
+    "time_sec": 5.573,
+    "minecraft_tick": 111,
+    "type": "beat",
+    "original_tick": 111
+  },
+  {
+    "time_sec": 5.759,
+    "minecraft_tick": 115,
+    "type": "onset",
+    "original_tick": 115
+  },
+  {
+    "time_sec": 5.991,
+    "minecraft_tick": 120,
+    "type": "onset",
+    "original_tick": 119
+  },
+  {
+    "time_sec": 6.2,
+    "minecraft_tick": 124,
+    "type": "beat",
+    "original_tick": 123
+  },
+  {
+    "time_sec": 6.827,
+    "minecraft_tick": 137,
+    "type": "beat",
+    "original_tick": 136
+  },
+  {
+    "time_sec": 7.43,
+    "minecraft_tick": 149,
+    "type": "onset",
+    "original_tick": 148
+  },
+  {
+    "time_sec": 7.454,
+    "minecraft_tick": 149,
+    "type": "beat",
+    "original_tick": 149
+  },
+  {
+    "time_sec": 7.825,
+    "minecraft_tick": 156,
+    "type": "onset",
+    "original_tick": 156
+  },
+  {
+    "time_sec": 8.127,
+    "minecraft_tick": 163,
+    "type": "beat",
+    "original_tick": 162
+  },
+  {
+    "time_sec": 8.173,
+    "minecraft_tick": 163,
+    "type": "onset",
+    "original_tick": 163
+  },
+  {
+    "time_sec": 8.545,
+    "minecraft_tick": 171,
+    "type": "onset",
+    "original_tick": 170
+  },
+  {
+    "time_sec": 8.8,
+    "minecraft_tick": 176,
+    "type": "beat",
+    "original_tick": 176
+  },
+  {
+    "time_sec": 9.451,
+    "minecraft_tick": 189,
+    "type": "beat",
+    "original_tick": 189
+  },
+  {
+    "time_sec": 10.101,
+    "minecraft_tick": 202,
+    "type": "beat",
+    "original_tick": 202
+  },
+  {
+    "time_sec": 10.751,
+    "minecraft_tick": 215,
+    "type": "beat",
+    "original_tick": 215
+  },
+  {
+    "time_sec": 11.378,
+    "minecraft_tick": 228,
+    "type": "onset",
+    "original_tick": 227
+  },
+  {
+    "time_sec": 11.401,
+    "minecraft_tick": 228,
+    "type": "beat",
+    "original_tick": 228
+  },
+  {
+    "time_sec": 12.074,
+    "minecraft_tick": 241,
+    "type": "onset",
+    "original_tick": 241
+  },
+  {
+    "time_sec": 12.098,
+    "minecraft_tick": 242,
+    "type": "beat",
+    "original_tick": 241
+  },
+  {
+    "time_sec": 12.748,
+    "minecraft_tick": 255,
+    "type": "onset",
+    "original_tick": 254
+  },
+  {
+    "time_sec": 12.771,
+    "minecraft_tick": 255,
+    "type": "beat",
+    "original_tick": 255
+  },
+  {
+    "time_sec": 13.398,
+    "minecraft_tick": 268,
+    "type": "onset",
+    "original_tick": 267
+  },
+  {
+    "time_sec": 13.421,
+    "minecraft_tick": 268,
+    "type": "beat",
+    "original_tick": 268
+  },
+  {
+    "time_sec": 14.141,
+    "minecraft_tick": 283,
+    "type": "beat",
+    "original_tick": 282
+  },
+  {
+    "time_sec": 14.211,
+    "minecraft_tick": 284,
+    "type": "onset",
+    "original_tick": 284
+  },
+  {
+    "time_sec": 14.838,
+    "minecraft_tick": 297,
+    "type": "beat",
+    "original_tick": 296
+  },
+  {
+    "time_sec": 14.907,
+    "minecraft_tick": 298,
+    "type": "onset",
+    "original_tick": 298
+  },
+  {
+    "time_sec": 15.511,
+    "minecraft_tick": 310,
+    "type": "onset",
+    "original_tick": 310
+  },
+  {
+    "time_sec": 15.534,
+    "minecraft_tick": 311,
+    "type": "beat",
+    "original_tick": 310
+  },
+  {
+    "time_sec": 16.184,
+    "minecraft_tick": 324,
+    "type": "onset",
+    "original_tick": 323
+  },
+  {
+    "time_sec": 16.208,
+    "minecraft_tick": 324,
+    "type": "beat",
+    "original_tick": 324
+  },
+  {
+    "time_sec": 16.834,
+    "minecraft_tick": 337,
+    "type": "onset",
+    "original_tick": 336
+  },
+  {
+    "time_sec": 16.858,
+    "minecraft_tick": 337,
+    "type": "beat",
+    "original_tick": 337
+  },
+  {
+    "time_sec": 17.461,
+    "minecraft_tick": 349,
+    "type": "onset",
+    "original_tick": 349
+  },
+  {
+    "time_sec": 17.485,
+    "minecraft_tick": 350,
+    "type": "beat",
+    "original_tick": 349
+  },
+  {
+    "time_sec": 18.181,
+    "minecraft_tick": 364,
+    "type": "beat",
+    "original_tick": 363
+  },
+  {
+    "time_sec": 18.228,
+    "minecraft_tick": 365,
+    "type": "onset",
+    "original_tick": 364
+  },
+  {
+    "time_sec": 18.855,
+    "minecraft_tick": 377,
+    "type": "beat",
+    "original_tick": 377
+  },
+  {
+    "time_sec": 19.482,
+    "minecraft_tick": 390,
+    "type": "onset",
+    "original_tick": 389
+  },
+  {
+    "time_sec": 19.528,
+    "minecraft_tick": 391,
+    "type": "beat",
+    "original_tick": 390
+  },
+  {
+    "time_sec": 20.201,
+    "minecraft_tick": 404,
+    "type": "beat",
+    "original_tick": 404
+  },
+  {
+    "time_sec": 20.503,
+    "minecraft_tick": 410,
+    "type": "onset",
+    "original_tick": 410
+  },
+  {
+    "time_sec": 20.852,
+    "minecraft_tick": 417,
+    "type": "onset",
+    "original_tick": 417
+  },
+  {
+    "time_sec": 20.875,
+    "minecraft_tick": 418,
+    "type": "beat",
+    "original_tick": 417
+  },
+  {
+    "time_sec": 21.153,
+    "minecraft_tick": 423,
+    "type": "onset",
+    "original_tick": 423
+  },
+  {
+    "time_sec": 21.502,
+    "minecraft_tick": 430,
+    "type": "onset",
+    "original_tick": 430
+  },
+  {
+    "time_sec": 21.525,
+    "minecraft_tick": 430,
+    "type": "beat",
+    "original_tick": 430
+  },
+  {
+    "time_sec": 22.221,
+    "minecraft_tick": 444,
+    "type": "beat",
+    "original_tick": 444
+  },
+  {
+    "time_sec": 22.221,
+    "minecraft_tick": 444,
+    "type": "onset",
+    "original_tick": 444
+  },
+  {
+    "time_sec": 22.848,
+    "minecraft_tick": 457,
+    "type": "beat",
+    "original_tick": 456
+  },
+  {
+    "time_sec": 22.848,
+    "minecraft_tick": 457,
+    "type": "onset",
+    "original_tick": 456
+  },
+  {
+    "time_sec": 23.522,
+    "minecraft_tick": 470,
+    "type": "onset",
+    "original_tick": 470
+  },
+  {
+    "time_sec": 23.545,
+    "minecraft_tick": 471,
+    "type": "beat",
+    "original_tick": 470
+  },
+  {
+    "time_sec": 24.195,
+    "minecraft_tick": 484,
+    "type": "onset",
+    "original_tick": 483
+  },
+  {
+    "time_sec": 24.218,
+    "minecraft_tick": 484,
+    "type": "beat",
+    "original_tick": 484
+  },
+  {
+    "time_sec": 24.845,
+    "minecraft_tick": 497,
+    "type": "onset",
+    "original_tick": 496
+  },
+  {
+    "time_sec": 24.869,
+    "minecraft_tick": 497,
+    "type": "beat",
+    "original_tick": 497
+  },
+  {
+    "time_sec": 25.17,
+    "minecraft_tick": 503,
+    "type": "onset",
+    "original_tick": 503
+  },
+  {
+    "time_sec": 25.542,
+    "minecraft_tick": 511,
+    "type": "beat",
+    "original_tick": 510
+  },
+  {
+    "time_sec": 25.542,
+    "minecraft_tick": 511,
+    "type": "onset",
+    "original_tick": 510
+  },
+  {
+    "time_sec": 26.192,
+    "minecraft_tick": 524,
+    "type": "onset",
+    "original_tick": 523
+  },
+  {
+    "time_sec": 26.215,
+    "minecraft_tick": 524,
+    "type": "beat",
+    "original_tick": 524
+  },
+  {
+    "time_sec": 26.842,
+    "minecraft_tick": 537,
+    "type": "beat",
+    "original_tick": 536
+  },
+  {
+    "time_sec": 27.423,
+    "minecraft_tick": 548,
+    "type": "onset",
+    "original_tick": 548
+  },
+  {
+    "time_sec": 27.446,
+    "minecraft_tick": 549,
+    "type": "beat",
+    "original_tick": 548
+  },
+  {
+    "time_sec": 28.119,
+    "minecraft_tick": 562,
+    "type": "beat",
+    "original_tick": 562
+  },
+  {
+    "time_sec": 28.119,
+    "minecraft_tick": 562,
+    "type": "onset",
+    "original_tick": 562
+  },
+  {
+    "time_sec": 28.444,
+    "minecraft_tick": 569,
+    "type": "onset",
+    "original_tick": 568
+  },
+  {
+    "time_sec": 28.793,
+    "minecraft_tick": 576,
+    "type": "beat",
+    "original_tick": 575
+  },
+  {
+    "time_sec": 28.793,
+    "minecraft_tick": 576,
+    "type": "onset",
+    "original_tick": 575
+  },
+  {
+    "time_sec": 29.071,
+    "minecraft_tick": 581,
+    "type": "onset",
+    "original_tick": 581
+  },
+  {
+    "time_sec": 29.466,
+    "minecraft_tick": 589,
+    "type": "onset",
+    "original_tick": 589
+  },
+  {
+    "time_sec": 29.489,
+    "minecraft_tick": 590,
+    "type": "beat",
+    "original_tick": 589
+  },
+  {
+    "time_sec": 30.14,
+    "minecraft_tick": 603,
+    "type": "beat",
+    "original_tick": 602
+  },
+  {
+    "time_sec": 30.14,
+    "minecraft_tick": 603,
+    "type": "onset",
+    "original_tick": 602
+  },
+  {
+    "time_sec": 30.743,
+    "minecraft_tick": 615,
+    "type": "beat",
+    "original_tick": 614
+  },
+  {
+    "time_sec": 30.743,
+    "minecraft_tick": 615,
+    "type": "onset",
+    "original_tick": 614
+  },
+  {
+    "time_sec": 31.37,
+    "minecraft_tick": 627,
+    "type": "beat",
+    "original_tick": 627
+  },
+  {
+    "time_sec": 31.37,
+    "minecraft_tick": 627,
+    "type": "onset",
+    "original_tick": 627
+  },
+  {
+    "time_sec": 31.974,
+    "minecraft_tick": 639,
+    "type": "onset",
+    "original_tick": 639
+  },
+  {
+    "time_sec": 31.997,
+    "minecraft_tick": 640,
+    "type": "beat",
+    "original_tick": 639
+  },
+  {
+    "time_sec": 32.601,
+    "minecraft_tick": 652,
+    "type": "beat",
+    "original_tick": 652
+  },
+  {
+    "time_sec": 32.601,
+    "minecraft_tick": 652,
+    "type": "onset",
+    "original_tick": 652
+  },
+  {
+    "time_sec": 33.088,
+    "minecraft_tick": 662,
+    "type": "onset",
+    "original_tick": 661
+  },
+  {
+    "time_sec": 33.251,
+    "minecraft_tick": 665,
+    "type": "beat",
+    "original_tick": 665
+  },
+  {
+    "time_sec": 33.251,
+    "minecraft_tick": 665,
+    "type": "onset",
+    "original_tick": 665
+  },
+  {
+    "time_sec": 33.297,
+    "minecraft_tick": 666,
+    "type": "onset",
+    "original_tick": 665
+  },
+  {
+    "time_sec": 33.924,
+    "minecraft_tick": 678,
+    "type": "onset",
+    "original_tick": 678
+  },
+  {
+    "time_sec": 33.948,
+    "minecraft_tick": 679,
+    "type": "beat",
+    "original_tick": 678
+  },
+  {
+    "time_sec": 34.551,
+    "minecraft_tick": 691,
+    "type": "onset",
+    "original_tick": 691
+  },
+  {
+    "time_sec": 34.575,
+    "minecraft_tick": 692,
+    "type": "beat",
+    "original_tick": 691
+  },
+  {
+    "time_sec": 35.155,
+    "minecraft_tick": 703,
+    "type": "onset",
+    "original_tick": 703
+  },
+  {
+    "time_sec": 35.178,
+    "minecraft_tick": 704,
+    "type": "beat",
+    "original_tick": 703
+  },
+  {
+    "time_sec": 35.805,
+    "minecraft_tick": 716,
+    "type": "onset",
+    "original_tick": 716
+  },
+  {
+    "time_sec": 35.828,
+    "minecraft_tick": 717,
+    "type": "beat",
+    "original_tick": 716
+  },
+  {
+    "time_sec": 36.455,
+    "minecraft_tick": 729,
+    "type": "onset",
+    "original_tick": 729
+  },
+  {
+    "time_sec": 36.479,
+    "minecraft_tick": 730,
+    "type": "beat",
+    "original_tick": 729
+  },
+  {
+    "time_sec": 36.989,
+    "minecraft_tick": 740,
+    "type": "onset",
+    "original_tick": 739
+  },
+  {
+    "time_sec": 37.059,
+    "minecraft_tick": 741,
+    "type": "onset",
+    "original_tick": 741
+  },
+  {
+    "time_sec": 37.105,
+    "minecraft_tick": 742,
+    "type": "beat",
+    "original_tick": 742
+  },
+  {
+    "time_sec": 37.129,
+    "minecraft_tick": 743,
+    "type": "onset",
+    "original_tick": 742
+  },
+  {
+    "time_sec": 37.709,
+    "minecraft_tick": 754,
+    "type": "onset",
+    "original_tick": 754
+  },
+  {
+    "time_sec": 37.732,
+    "minecraft_tick": 755,
+    "type": "beat",
+    "original_tick": 754
+  },
+  {
+    "time_sec": 38.336,
+    "minecraft_tick": 767,
+    "type": "onset",
+    "original_tick": 766
+  },
+  {
+    "time_sec": 38.359,
+    "minecraft_tick": 767,
+    "type": "beat",
+    "original_tick": 767
+  },
+  {
+    "time_sec": 38.801,
+    "minecraft_tick": 776,
+    "type": "onset",
+    "original_tick": 776
+  },
+  {
+    "time_sec": 38.893,
+    "minecraft_tick": 778,
+    "type": "onset",
+    "original_tick": 777
+  },
+  {
+    "time_sec": 38.963,
+    "minecraft_tick": 779,
+    "type": "onset",
+    "original_tick": 779
+  },
+  {
+    "time_sec": 38.986,
+    "minecraft_tick": 780,
+    "type": "beat",
+    "original_tick": 779
+  },
+  {
+    "time_sec": 39.544,
+    "minecraft_tick": 791,
+    "type": "onset",
+    "original_tick": 790
+  },
+  {
+    "time_sec": 39.567,
+    "minecraft_tick": 791,
+    "type": "beat",
+    "original_tick": 791
+  },
+  {
+    "time_sec": 40.194,
+    "minecraft_tick": 804,
+    "type": "onset",
+    "original_tick": 803
+  },
+  {
+    "time_sec": 40.217,
+    "minecraft_tick": 804,
+    "type": "beat",
+    "original_tick": 804
+  },
+  {
+    "time_sec": 40.89,
+    "minecraft_tick": 818,
+    "type": "onset",
+    "original_tick": 817
+  },
+  {
+    "time_sec": 40.914,
+    "minecraft_tick": 818,
+    "type": "beat",
+    "original_tick": 818
+  },
+  {
+    "time_sec": 41.587,
+    "minecraft_tick": 832,
+    "type": "beat",
+    "original_tick": 831
+  },
+  {
+    "time_sec": 42.26,
+    "minecraft_tick": 845,
+    "type": "beat",
+    "original_tick": 845
+  },
+  {
+    "time_sec": 42.934,
+    "minecraft_tick": 859,
+    "type": "beat",
+    "original_tick": 858
+  },
+  {
+    "time_sec": 43.166,
+    "minecraft_tick": 863,
+    "type": "onset",
+    "original_tick": 863
+  },
+  {
+    "time_sec": 43.282,
+    "minecraft_tick": 866,
+    "type": "onset",
+    "original_tick": 865
+  },
+  {
+    "time_sec": 43.607,
+    "minecraft_tick": 872,
+    "type": "beat",
+    "original_tick": 872
+  },
+  {
+    "time_sec": 44.28,
+    "minecraft_tick": 886,
+    "type": "beat",
+    "original_tick": 885
+  },
+  {
+    "time_sec": 44.954,
+    "minecraft_tick": 899,
+    "type": "beat",
+    "original_tick": 899
+  },
+  {
+    "time_sec": 45.581,
+    "minecraft_tick": 912,
+    "type": "onset",
+    "original_tick": 911
+  },
+  {
+    "time_sec": 45.604,
+    "minecraft_tick": 912,
+    "type": "beat",
+    "original_tick": 912
+  },
+  {
+    "time_sec": 45.627,
+    "minecraft_tick": 913,
+    "type": "onset",
+    "original_tick": 912
+  },
+  {
+    "time_sec": 45.697,
+    "minecraft_tick": 914,
+    "type": "onset",
+    "original_tick": 913
+  },
+  {
+    "time_sec": 46.254,
+    "minecraft_tick": 925,
+    "type": "beat",
+    "original_tick": 925
+  },
+  {
+    "time_sec": 46.602,
+    "minecraft_tick": 932,
+    "type": "onset",
+    "original_tick": 932
+  },
+  {
+    "time_sec": 46.904,
+    "minecraft_tick": 938,
+    "type": "beat",
+    "original_tick": 938
+  },
+  {
+    "time_sec": 46.928,
+    "minecraft_tick": 939,
+    "type": "onset",
+    "original_tick": 938
+  },
+  {
+    "time_sec": 46.974,
+    "minecraft_tick": 939,
+    "type": "onset",
+    "original_tick": 939
+  },
+  {
+    "time_sec": 47.276,
+    "minecraft_tick": 946,
+    "type": "onset",
+    "original_tick": 945
+  },
+  {
+    "time_sec": 47.508,
+    "minecraft_tick": 950,
+    "type": "onset",
+    "original_tick": 950
+  },
+  {
+    "time_sec": 47.531,
+    "minecraft_tick": 951,
+    "type": "beat",
+    "original_tick": 950
+  },
+  {
+    "time_sec": 47.856,
+    "minecraft_tick": 957,
+    "type": "onset",
+    "original_tick": 957
+  },
+  {
+    "time_sec": 48.251,
+    "minecraft_tick": 965,
+    "type": "beat",
+    "original_tick": 965
+  },
+  {
+    "time_sec": 48.971,
+    "minecraft_tick": 979,
+    "type": "beat",
+    "original_tick": 979
+  },
+  {
+    "time_sec": 49.691,
+    "minecraft_tick": 994,
+    "type": "beat",
+    "original_tick": 993
+  },
+  {
+    "time_sec": 49.946,
+    "minecraft_tick": 999,
+    "type": "onset",
+    "original_tick": 998
+  },
+  {
+    "time_sec": 50.364,
+    "minecraft_tick": 1007,
+    "type": "onset",
+    "original_tick": 1007
+  },
+  {
+    "time_sec": 50.387,
+    "minecraft_tick": 1008,
+    "type": "beat",
+    "original_tick": 1007
+  },
+  {
+    "time_sec": 50.712,
+    "minecraft_tick": 1014,
+    "type": "onset",
+    "original_tick": 1014
+  },
+  {
+    "time_sec": 51.037,
+    "minecraft_tick": 1021,
+    "type": "onset",
+    "original_tick": 1020
+  },
+  {
+    "time_sec": 51.061,
+    "minecraft_tick": 1021,
+    "type": "beat",
+    "original_tick": 1021
+  },
+  {
+    "time_sec": 51.363,
+    "minecraft_tick": 1027,
+    "type": "onset",
+    "original_tick": 1027
+  },
+  {
+    "time_sec": 51.711,
+    "minecraft_tick": 1034,
+    "type": "beat",
+    "original_tick": 1034
+  },
+  {
+    "time_sec": 51.711,
+    "minecraft_tick": 1034,
+    "type": "onset",
+    "original_tick": 1034
+  },
+  {
+    "time_sec": 52.059,
+    "minecraft_tick": 1041,
+    "type": "onset",
+    "original_tick": 1041
+  },
+  {
+    "time_sec": 52.361,
+    "minecraft_tick": 1047,
+    "type": "onset",
+    "original_tick": 1047
+  },
+  {
+    "time_sec": 52.384,
+    "minecraft_tick": 1048,
+    "type": "beat",
+    "original_tick": 1047
+  },
+  {
+    "time_sec": 52.709,
+    "minecraft_tick": 1054,
+    "type": "onset",
+    "original_tick": 1054
+  },
+  {
+    "time_sec": 53.034,
+    "minecraft_tick": 1061,
+    "type": "onset",
+    "original_tick": 1060
+  },
+  {
+    "time_sec": 53.058,
+    "minecraft_tick": 1061,
+    "type": "beat",
+    "original_tick": 1061
+  },
+  {
+    "time_sec": 53.359,
+    "minecraft_tick": 1067,
+    "type": "onset",
+    "original_tick": 1067
+  },
+  {
+    "time_sec": 53.685,
+    "minecraft_tick": 1074,
+    "type": "onset",
+    "original_tick": 1073
+  },
+  {
+    "time_sec": 53.708,
+    "minecraft_tick": 1074,
+    "type": "beat",
+    "original_tick": 1074
+  },
+  {
+    "time_sec": 54.056,
+    "minecraft_tick": 1081,
+    "type": "onset",
+    "original_tick": 1081
+  },
+  {
+    "time_sec": 54.381,
+    "minecraft_tick": 1088,
+    "type": "onset",
+    "original_tick": 1087
+  },
+  {
+    "time_sec": 54.404,
+    "minecraft_tick": 1088,
+    "type": "beat",
+    "original_tick": 1088
+  },
+  {
+    "time_sec": 54.729,
+    "minecraft_tick": 1095,
+    "type": "onset",
+    "original_tick": 1094
+  },
+  {
+    "time_sec": 55.055,
+    "minecraft_tick": 1101,
+    "type": "onset",
+    "original_tick": 1101
+  },
+  {
+    "time_sec": 55.078,
+    "minecraft_tick": 1102,
+    "type": "beat",
+    "original_tick": 1101
+  },
+  {
+    "time_sec": 55.38,
+    "minecraft_tick": 1108,
+    "type": "onset",
+    "original_tick": 1107
+  },
+  {
+    "time_sec": 55.728,
+    "minecraft_tick": 1115,
+    "type": "beat",
+    "original_tick": 1114
+  },
+  {
+    "time_sec": 55.728,
+    "minecraft_tick": 1115,
+    "type": "onset",
+    "original_tick": 1114
+  },
+  {
+    "time_sec": 56.076,
+    "minecraft_tick": 1122,
+    "type": "onset",
+    "original_tick": 1121
+  },
+  {
+    "time_sec": 56.401,
+    "minecraft_tick": 1128,
+    "type": "beat",
+    "original_tick": 1128
+  },
+  {
+    "time_sec": 56.401,
+    "minecraft_tick": 1128,
+    "type": "onset",
+    "original_tick": 1128
+  },
+  {
+    "time_sec": 56.75,
+    "minecraft_tick": 1135,
+    "type": "onset",
+    "original_tick": 1134
+  },
+  {
+    "time_sec": 57.075,
+    "minecraft_tick": 1142,
+    "type": "onset",
+    "original_tick": 1141
+  },
+  {
+    "time_sec": 57.098,
+    "minecraft_tick": 1142,
+    "type": "beat",
+    "original_tick": 1141
+  },
+  {
+    "time_sec": 57.377,
+    "minecraft_tick": 1148,
+    "type": "onset",
+    "original_tick": 1147
+  },
+  {
+    "time_sec": 57.748,
+    "minecraft_tick": 1155,
+    "type": "beat",
+    "original_tick": 1154
+  },
+  {
+    "time_sec": 57.748,
+    "minecraft_tick": 1155,
+    "type": "onset",
+    "original_tick": 1154
+  },
+  {
+    "time_sec": 58.073,
+    "minecraft_tick": 1161,
+    "type": "onset",
+    "original_tick": 1161
+  },
+  {
+    "time_sec": 58.398,
+    "minecraft_tick": 1168,
+    "type": "beat",
+    "original_tick": 1167
+  },
+  {
+    "time_sec": 58.398,
+    "minecraft_tick": 1168,
+    "type": "onset",
+    "original_tick": 1167
+  },
+  {
+    "time_sec": 58.561,
+    "minecraft_tick": 1171,
+    "type": "onset",
+    "original_tick": 1171
+  },
+  {
+    "time_sec": 58.723,
+    "minecraft_tick": 1174,
+    "type": "onset",
+    "original_tick": 1174
+  },
+  {
+    "time_sec": 59.072,
+    "minecraft_tick": 1181,
+    "type": "beat",
+    "original_tick": 1181
+  },
+  {
+    "time_sec": 59.072,
+    "minecraft_tick": 1181,
+    "type": "onset",
+    "original_tick": 1181
+  },
+  {
+    "time_sec": 59.373,
+    "minecraft_tick": 1187,
+    "type": "onset",
+    "original_tick": 1187
+  },
+  {
+    "time_sec": 59.699,
+    "minecraft_tick": 1194,
+    "type": "onset",
+    "original_tick": 1193
+  },
+  {
+    "time_sec": 59.722,
+    "minecraft_tick": 1194,
+    "type": "beat",
+    "original_tick": 1194
+  },
+  {
+    "time_sec": 60.047,
+    "minecraft_tick": 1201,
+    "type": "onset",
+    "original_tick": 1200
+  },
+  {
+    "time_sec": 60.325,
+    "minecraft_tick": 1206,
+    "type": "onset",
+    "original_tick": 1206
+  },
+  {
+    "time_sec": 60.395,
+    "minecraft_tick": 1208,
+    "type": "beat",
+    "original_tick": 1207
+  },
+  {
+    "time_sec": 60.395,
+    "minecraft_tick": 1208,
+    "type": "onset",
+    "original_tick": 1207
+  },
+  {
+    "time_sec": 60.72,
+    "minecraft_tick": 1214,
+    "type": "onset",
+    "original_tick": 1214
+  },
+  {
+    "time_sec": 61.068,
+    "minecraft_tick": 1221,
+    "type": "beat",
+    "original_tick": 1221
+  },
+  {
+    "time_sec": 61.068,
+    "minecraft_tick": 1221,
+    "type": "onset",
+    "original_tick": 1221
+  },
+  {
+    "time_sec": 61.37,
+    "minecraft_tick": 1227,
+    "type": "onset",
+    "original_tick": 1227
+  },
+  {
+    "time_sec": 61.719,
+    "minecraft_tick": 1234,
+    "type": "beat",
+    "original_tick": 1234
+  },
+  {
+    "time_sec": 61.719,
+    "minecraft_tick": 1234,
+    "type": "onset",
+    "original_tick": 1234
+  },
+  {
+    "time_sec": 62.044,
+    "minecraft_tick": 1241,
+    "type": "onset",
+    "original_tick": 1240
+  },
+  {
+    "time_sec": 62.369,
+    "minecraft_tick": 1247,
+    "type": "onset",
+    "original_tick": 1247
+  },
+  {
+    "time_sec": 62.392,
+    "minecraft_tick": 1248,
+    "type": "beat",
+    "original_tick": 1247
+  },
+  {
+    "time_sec": 62.717,
+    "minecraft_tick": 1254,
+    "type": "onset",
+    "original_tick": 1254
+  },
+  {
+    "time_sec": 63.065,
+    "minecraft_tick": 1261,
+    "type": "onset",
+    "original_tick": 1261
+  },
+  {
+    "time_sec": 63.089,
+    "minecraft_tick": 1262,
+    "type": "beat",
+    "original_tick": 1261
+  },
+  {
+    "time_sec": 63.39,
+    "minecraft_tick": 1268,
+    "type": "onset",
+    "original_tick": 1267
+  },
+  {
+    "time_sec": 63.716,
+    "minecraft_tick": 1274,
+    "type": "onset",
+    "original_tick": 1274
+  },
+  {
+    "time_sec": 63.739,
+    "minecraft_tick": 1275,
+    "type": "beat",
+    "original_tick": 1274
+  },
+  {
+    "time_sec": 64.041,
+    "minecraft_tick": 1281,
+    "type": "onset",
+    "original_tick": 1280
+  },
+  {
+    "time_sec": 64.389,
+    "minecraft_tick": 1288,
+    "type": "beat",
+    "original_tick": 1287
+  },
+  {
+    "time_sec": 64.389,
+    "minecraft_tick": 1288,
+    "type": "onset",
+    "original_tick": 1287
+  },
+  {
+    "time_sec": 64.714,
+    "minecraft_tick": 1294,
+    "type": "onset",
+    "original_tick": 1294
+  },
+  {
+    "time_sec": 65.039,
+    "minecraft_tick": 1301,
+    "type": "onset",
+    "original_tick": 1300
+  },
+  {
+    "time_sec": 65.062,
+    "minecraft_tick": 1301,
+    "type": "beat",
+    "original_tick": 1301
+  },
+  {
+    "time_sec": 65.387,
+    "minecraft_tick": 1308,
+    "type": "onset",
+    "original_tick": 1307
+  },
+  {
+    "time_sec": 65.712,
+    "minecraft_tick": 1314,
+    "type": "onset",
+    "original_tick": 1314
+  },
+  {
+    "time_sec": 65.736,
+    "minecraft_tick": 1315,
+    "type": "beat",
+    "original_tick": 1314
+  },
+  {
+    "time_sec": 66.061,
+    "minecraft_tick": 1321,
+    "type": "onset",
+    "original_tick": 1321
+  },
+  {
+    "time_sec": 66.107,
+    "minecraft_tick": 1322,
+    "type": "onset",
+    "original_tick": 1322
+  },
+  {
+    "time_sec": 66.386,
+    "minecraft_tick": 1328,
+    "type": "onset",
+    "original_tick": 1327
+  },
+  {
+    "time_sec": 66.409,
+    "minecraft_tick": 1328,
+    "type": "beat",
+    "original_tick": 1328
+  },
+  {
+    "time_sec": 66.734,
+    "minecraft_tick": 1335,
+    "type": "onset",
+    "original_tick": 1334
+  },
+  {
+    "time_sec": 67.059,
+    "minecraft_tick": 1341,
+    "type": "onset",
+    "original_tick": 1341
+  },
+  {
+    "time_sec": 67.082,
+    "minecraft_tick": 1342,
+    "type": "beat",
+    "original_tick": 1341
+  },
+  {
+    "time_sec": 67.384,
+    "minecraft_tick": 1348,
+    "type": "onset",
+    "original_tick": 1347
+  },
+  {
+    "time_sec": 67.733,
+    "minecraft_tick": 1355,
+    "type": "beat",
+    "original_tick": 1354
+  },
+  {
+    "time_sec": 67.733,
+    "minecraft_tick": 1355,
+    "type": "onset",
+    "original_tick": 1354
+  },
+  {
+    "time_sec": 68.081,
+    "minecraft_tick": 1362,
+    "type": "onset",
+    "original_tick": 1361
+  },
+  {
+    "time_sec": 68.383,
+    "minecraft_tick": 1368,
+    "type": "onset",
+    "original_tick": 1367
+  },
+  {
+    "time_sec": 68.406,
+    "minecraft_tick": 1368,
+    "type": "beat",
+    "original_tick": 1368
+  },
+  {
+    "time_sec": 68.615,
+    "minecraft_tick": 1372,
+    "type": "onset",
+    "original_tick": 1372
+  },
+  {
+    "time_sec": 68.731,
+    "minecraft_tick": 1375,
+    "type": "onset",
+    "original_tick": 1374
+  },
+  {
+    "time_sec": 69.079,
+    "minecraft_tick": 1382,
+    "type": "onset",
+    "original_tick": 1381
+  },
+  {
+    "time_sec": 69.103,
+    "minecraft_tick": 1382,
+    "type": "beat",
+    "original_tick": 1382
+  },
+  {
+    "time_sec": 69.381,
+    "minecraft_tick": 1388,
+    "type": "onset",
+    "original_tick": 1387
+  },
+  {
+    "time_sec": 69.73,
+    "minecraft_tick": 1395,
+    "type": "beat",
+    "original_tick": 1394
+  },
+  {
+    "time_sec": 69.73,
+    "minecraft_tick": 1395,
+    "type": "onset",
+    "original_tick": 1394
+  },
+  {
+    "time_sec": 70.449,
+    "minecraft_tick": 1409,
+    "type": "beat",
+    "original_tick": 1408
+  },
+  {
+    "time_sec": 70.449,
+    "minecraft_tick": 1409,
+    "type": "onset",
+    "original_tick": 1408
+  },
+  {
+    "time_sec": 70.635,
+    "minecraft_tick": 1413,
+    "type": "onset",
+    "original_tick": 1412
+  },
+  {
+    "time_sec": 70.798,
+    "minecraft_tick": 1416,
+    "type": "onset",
+    "original_tick": 1415
+  },
+  {
+    "time_sec": 71.1,
+    "minecraft_tick": 1422,
+    "type": "onset",
+    "original_tick": 1421
+  },
+  {
+    "time_sec": 71.123,
+    "minecraft_tick": 1422,
+    "type": "beat",
+    "original_tick": 1422
+  },
+  {
+    "time_sec": 71.448,
+    "minecraft_tick": 1429,
+    "type": "onset",
+    "original_tick": 1428
+  },
+  {
+    "time_sec": 71.819,
+    "minecraft_tick": 1436,
+    "type": "beat",
+    "original_tick": 1436
+  },
+  {
+    "time_sec": 71.819,
+    "minecraft_tick": 1436,
+    "type": "onset",
+    "original_tick": 1436
+  },
+  {
+    "time_sec": 72.144,
+    "minecraft_tick": 1443,
+    "type": "onset",
+    "original_tick": 1442
+  },
+  {
+    "time_sec": 72.469,
+    "minecraft_tick": 1449,
+    "type": "onset",
+    "original_tick": 1449
+  },
+  {
+    "time_sec": 72.493,
+    "minecraft_tick": 1450,
+    "type": "beat",
+    "original_tick": 1449
+  },
+  {
+    "time_sec": 72.655,
+    "minecraft_tick": 1453,
+    "type": "onset",
+    "original_tick": 1453
+  },
+  {
+    "time_sec": 72.818,
+    "minecraft_tick": 1456,
+    "type": "onset",
+    "original_tick": 1456
+  },
+  {
+    "time_sec": 72.98,
+    "minecraft_tick": 1460,
+    "type": "onset",
+    "original_tick": 1459
+  },
+  {
+    "time_sec": 73.143,
+    "minecraft_tick": 1463,
+    "type": "beat",
+    "original_tick": 1462
+  },
+  {
+    "time_sec": 73.143,
+    "minecraft_tick": 1463,
+    "type": "onset",
+    "original_tick": 1462
+  },
+  {
+    "time_sec": 73.677,
+    "minecraft_tick": 1474,
+    "type": "onset",
+    "original_tick": 1473
+  },
+  {
+    "time_sec": 73.7,
+    "minecraft_tick": 1474,
+    "type": "beat",
+    "original_tick": 1474
+  },
+  {
+    "time_sec": 74.188,
+    "minecraft_tick": 1484,
+    "type": "onset",
+    "original_tick": 1483
+  },
+  {
+    "time_sec": 74.304,
+    "minecraft_tick": 1486,
+    "type": "beat",
+    "original_tick": 1486
+  },
+  {
+    "time_sec": 74.536,
+    "minecraft_tick": 1491,
+    "type": "onset",
+    "original_tick": 1490
+  },
+  {
+    "time_sec": 74.722,
+    "minecraft_tick": 1494,
+    "type": "onset",
+    "original_tick": 1494
+  },
+  {
+    "time_sec": 74.884,
+    "minecraft_tick": 1498,
+    "type": "onset",
+    "original_tick": 1497
+  },
+  {
+    "time_sec": 74.908,
+    "minecraft_tick": 1498,
+    "type": "beat",
+    "original_tick": 1498
+  },
+  {
+    "time_sec": 75.233,
+    "minecraft_tick": 1505,
+    "type": "onset",
+    "original_tick": 1504
+  },
+  {
+    "time_sec": 75.558,
+    "minecraft_tick": 1511,
+    "type": "onset",
+    "original_tick": 1511
+  },
+  {
+    "time_sec": 75.581,
+    "minecraft_tick": 1512,
+    "type": "beat",
+    "original_tick": 1511
+  },
+  {
+    "time_sec": 75.906,
+    "minecraft_tick": 1518,
+    "type": "onset",
+    "original_tick": 1518
+  },
+  {
+    "time_sec": 76.092,
+    "minecraft_tick": 1522,
+    "type": "onset",
+    "original_tick": 1521
+  },
+  {
+    "time_sec": 76.254,
+    "minecraft_tick": 1525,
+    "type": "beat",
+    "original_tick": 1525
+  },
+  {
+    "time_sec": 76.254,
+    "minecraft_tick": 1525,
+    "type": "onset",
+    "original_tick": 1525
+  },
+  {
+    "time_sec": 76.579,
+    "minecraft_tick": 1532,
+    "type": "onset",
+    "original_tick": 1531
+  },
+  {
+    "time_sec": 76.765,
+    "minecraft_tick": 1535,
+    "type": "onset",
+    "original_tick": 1535
+  },
+  {
+    "time_sec": 76.928,
+    "minecraft_tick": 1539,
+    "type": "beat",
+    "original_tick": 1538
+  },
+  {
+    "time_sec": 76.928,
+    "minecraft_tick": 1539,
+    "type": "onset",
+    "original_tick": 1538
+  },
+  {
+    "time_sec": 77.09,
+    "minecraft_tick": 1542,
+    "type": "onset",
+    "original_tick": 1541
+  },
+  {
+    "time_sec": 77.253,
+    "minecraft_tick": 1545,
+    "type": "onset",
+    "original_tick": 1545
+  },
+  {
+    "time_sec": 77.578,
+    "minecraft_tick": 1552,
+    "type": "onset",
+    "original_tick": 1551
+  },
+  {
+    "time_sec": 77.601,
+    "minecraft_tick": 1552,
+    "type": "beat",
+    "original_tick": 1552
+  },
+  {
+    "time_sec": 77.787,
+    "minecraft_tick": 1556,
+    "type": "onset",
+    "original_tick": 1555
+  },
+  {
+    "time_sec": 77.949,
+    "minecraft_tick": 1559,
+    "type": "onset",
+    "original_tick": 1558
+  },
+  {
+    "time_sec": 78.274,
+    "minecraft_tick": 1565,
+    "type": "beat",
+    "original_tick": 1565
+  },
+  {
+    "time_sec": 78.274,
+    "minecraft_tick": 1565,
+    "type": "onset",
+    "original_tick": 1565
+  },
+  {
+    "time_sec": 78.6,
+    "minecraft_tick": 1572,
+    "type": "onset",
+    "original_tick": 1571
+  },
+  {
+    "time_sec": 78.948,
+    "minecraft_tick": 1579,
+    "type": "onset",
+    "original_tick": 1578
+  },
+  {
+    "time_sec": 78.971,
+    "minecraft_tick": 1579,
+    "type": "beat",
+    "original_tick": 1579
+  },
+  {
+    "time_sec": 79.319,
+    "minecraft_tick": 1586,
+    "type": "onset",
+    "original_tick": 1586
+  },
+  {
+    "time_sec": 79.621,
+    "minecraft_tick": 1592,
+    "type": "beat",
+    "original_tick": 1592
+  },
+  {
+    "time_sec": 79.621,
+    "minecraft_tick": 1592,
+    "type": "onset",
+    "original_tick": 1592
+  },
+  {
+    "time_sec": 79.784,
+    "minecraft_tick": 1596,
+    "type": "onset",
+    "original_tick": 1595
+  },
+  {
+    "time_sec": 79.946,
+    "minecraft_tick": 1599,
+    "type": "onset",
+    "original_tick": 1598
+  },
+  {
+    "time_sec": 80.295,
+    "minecraft_tick": 1606,
+    "type": "beat",
+    "original_tick": 1605
+  },
+  {
+    "time_sec": 80.295,
+    "minecraft_tick": 1606,
+    "type": "onset",
+    "original_tick": 1605
+  },
+  {
+    "time_sec": 80.62,
+    "minecraft_tick": 1612,
+    "type": "onset",
+    "original_tick": 1612
+  },
+  {
+    "time_sec": 80.968,
+    "minecraft_tick": 1619,
+    "type": "beat",
+    "original_tick": 1619
+  },
+  {
+    "time_sec": 80.968,
+    "minecraft_tick": 1619,
+    "type": "onset",
+    "original_tick": 1619
+  },
+  {
+    "time_sec": 81.618,
+    "minecraft_tick": 1632,
+    "type": "onset",
+    "original_tick": 1632
+  },
+  {
+    "time_sec": 81.641,
+    "minecraft_tick": 1633,
+    "type": "beat",
+    "original_tick": 1632
+  },
+  {
+    "time_sec": 81.827,
+    "minecraft_tick": 1637,
+    "type": "onset",
+    "original_tick": 1636
+  },
+  {
+    "time_sec": 81.966,
+    "minecraft_tick": 1639,
+    "type": "onset",
+    "original_tick": 1639
+  },
+  {
+    "time_sec": 82.315,
+    "minecraft_tick": 1646,
+    "type": "onset",
+    "original_tick": 1646
+  },
+  {
+    "time_sec": 82.338,
+    "minecraft_tick": 1647,
+    "type": "beat",
+    "original_tick": 1646
+  },
+  {
+    "time_sec": 82.64,
+    "minecraft_tick": 1653,
+    "type": "onset",
+    "original_tick": 1652
+  },
+  {
+    "time_sec": 82.988,
+    "minecraft_tick": 1660,
+    "type": "beat",
+    "original_tick": 1659
+  },
+  {
+    "time_sec": 83.336,
+    "minecraft_tick": 1667,
+    "type": "onset",
+    "original_tick": 1666
+  },
+  {
+    "time_sec": 83.661,
+    "minecraft_tick": 1673,
+    "type": "beat",
+    "original_tick": 1673
+  },
+  {
+    "time_sec": 83.661,
+    "minecraft_tick": 1673,
+    "type": "onset",
+    "original_tick": 1673
+  },
+  {
+    "time_sec": 84.01,
+    "minecraft_tick": 1680,
+    "type": "onset",
+    "original_tick": 1680
+  },
+  {
+    "time_sec": 84.358,
+    "minecraft_tick": 1687,
+    "type": "beat",
+    "original_tick": 1687
+  },
+  {
+    "time_sec": 84.358,
+    "minecraft_tick": 1687,
+    "type": "onset",
+    "original_tick": 1687
+  },
+  {
+    "time_sec": 84.66,
+    "minecraft_tick": 1693,
+    "type": "onset",
+    "original_tick": 1693
+  },
+  {
+    "time_sec": 85.008,
+    "minecraft_tick": 1700,
+    "type": "onset",
+    "original_tick": 1700
+  },
+  {
+    "time_sec": 85.031,
+    "minecraft_tick": 1701,
+    "type": "beat",
+    "original_tick": 1700
+  },
+  {
+    "time_sec": 85.38,
+    "minecraft_tick": 1708,
+    "type": "onset",
+    "original_tick": 1707
+  },
+  {
+    "time_sec": 85.705,
+    "minecraft_tick": 1714,
+    "type": "beat",
+    "original_tick": 1714
+  },
+  {
+    "time_sec": 85.705,
+    "minecraft_tick": 1714,
+    "type": "onset",
+    "original_tick": 1714
+  },
+  {
+    "time_sec": 86.03,
+    "minecraft_tick": 1721,
+    "type": "onset",
+    "original_tick": 1720
+  },
+  {
+    "time_sec": 86.378,
+    "minecraft_tick": 1728,
+    "type": "beat",
+    "original_tick": 1727
+  },
+  {
+    "time_sec": 86.68,
+    "minecraft_tick": 1734,
+    "type": "onset",
+    "original_tick": 1733
+  },
+  {
+    "time_sec": 87.028,
+    "minecraft_tick": 1741,
+    "type": "beat",
+    "original_tick": 1740
+  },
+  {
+    "time_sec": 87.028,
+    "minecraft_tick": 1741,
+    "type": "onset",
+    "original_tick": 1740
+  },
+  {
+    "time_sec": 87.353,
+    "minecraft_tick": 1747,
+    "type": "onset",
+    "original_tick": 1747
+  },
+  {
+    "time_sec": 87.679,
+    "minecraft_tick": 1754,
+    "type": "onset",
+    "original_tick": 1753
+  },
+  {
+    "time_sec": 87.702,
+    "minecraft_tick": 1754,
+    "type": "beat",
+    "original_tick": 1754
+  },
+  {
+    "time_sec": 88.05,
+    "minecraft_tick": 1761,
+    "type": "onset",
+    "original_tick": 1761
+  },
+  {
+    "time_sec": 88.398,
+    "minecraft_tick": 1768,
+    "type": "onset",
+    "original_tick": 1767
+  },
+  {
+    "time_sec": 88.422,
+    "minecraft_tick": 1768,
+    "type": "beat",
+    "original_tick": 1768
+  },
+  {
+    "time_sec": 88.747,
+    "minecraft_tick": 1775,
+    "type": "onset",
+    "original_tick": 1774
+  },
+  {
+    "time_sec": 89.049,
+    "minecraft_tick": 1781,
+    "type": "onset",
+    "original_tick": 1780
+  },
+  {
+    "time_sec": 89.072,
+    "minecraft_tick": 1781,
+    "type": "beat",
+    "original_tick": 1781
+  },
+  {
+    "time_sec": 89.397,
+    "minecraft_tick": 1788,
+    "type": "onset",
+    "original_tick": 1787
+  },
+  {
+    "time_sec": 89.722,
+    "minecraft_tick": 1794,
+    "type": "beat",
+    "original_tick": 1794
+  },
+  {
+    "time_sec": 89.722,
+    "minecraft_tick": 1794,
+    "type": "onset",
+    "original_tick": 1794
+  },
+  {
+    "time_sec": 90.07,
+    "minecraft_tick": 1801,
+    "type": "onset",
+    "original_tick": 1801
+  },
+  {
+    "time_sec": 90.395,
+    "minecraft_tick": 1808,
+    "type": "beat",
+    "original_tick": 1807
+  },
+  {
+    "time_sec": 90.395,
+    "minecraft_tick": 1808,
+    "type": "onset",
+    "original_tick": 1807
+  },
+  {
+    "time_sec": 90.72,
+    "minecraft_tick": 1814,
+    "type": "onset",
+    "original_tick": 1814
+  },
+  {
+    "time_sec": 91.045,
+    "minecraft_tick": 1821,
+    "type": "beat",
+    "original_tick": 1820
+  },
+  {
+    "time_sec": 91.045,
+    "minecraft_tick": 1821,
+    "type": "onset",
+    "original_tick": 1820
+  },
+  {
+    "time_sec": 91.371,
+    "minecraft_tick": 1827,
+    "type": "onset",
+    "original_tick": 1827
+  },
+  {
+    "time_sec": 91.696,
+    "minecraft_tick": 1834,
+    "type": "onset",
+    "original_tick": 1833
+  },
+  {
+    "time_sec": 91.719,
+    "minecraft_tick": 1834,
+    "type": "beat",
+    "original_tick": 1834
+  },
+  {
+    "time_sec": 92.044,
+    "minecraft_tick": 1841,
+    "type": "onset",
+    "original_tick": 1840
+  },
+  {
+    "time_sec": 92.369,
+    "minecraft_tick": 1847,
+    "type": "beat",
+    "original_tick": 1847
+  },
+  {
+    "time_sec": 92.369,
+    "minecraft_tick": 1847,
+    "type": "onset",
+    "original_tick": 1847
+  },
+  {
+    "time_sec": 92.694,
+    "minecraft_tick": 1854,
+    "type": "onset",
+    "original_tick": 1853
+  },
+  {
+    "time_sec": 93.019,
+    "minecraft_tick": 1860,
+    "type": "beat",
+    "original_tick": 1860
+  },
+  {
+    "time_sec": 93.019,
+    "minecraft_tick": 1860,
+    "type": "onset",
+    "original_tick": 1860
+  },
+  {
+    "time_sec": 93.321,
+    "minecraft_tick": 1866,
+    "type": "onset",
+    "original_tick": 1866
+  },
+  {
+    "time_sec": 93.669,
+    "minecraft_tick": 1873,
+    "type": "onset",
+    "original_tick": 1873
+  },
+  {
+    "time_sec": 93.693,
+    "minecraft_tick": 1874,
+    "type": "beat",
+    "original_tick": 1873
+  },
+  {
+    "time_sec": 93.855,
+    "minecraft_tick": 1877,
+    "type": "onset",
+    "original_tick": 1877
+  },
+  {
+    "time_sec": 93.994,
+    "minecraft_tick": 1880,
+    "type": "onset",
+    "original_tick": 1879
+  },
+  {
+    "time_sec": 94.319,
+    "minecraft_tick": 1886,
+    "type": "beat",
+    "original_tick": 1886
+  },
+  {
+    "time_sec": 94.319,
+    "minecraft_tick": 1886,
+    "type": "onset",
+    "original_tick": 1886
+  },
+  {
+    "time_sec": 94.645,
+    "minecraft_tick": 1893,
+    "type": "onset",
+    "original_tick": 1892
+  },
+  {
+    "time_sec": 94.993,
+    "minecraft_tick": 1900,
+    "type": "beat",
+    "original_tick": 1899
+  },
+  {
+    "time_sec": 94.993,
+    "minecraft_tick": 1900,
+    "type": "onset",
+    "original_tick": 1899
+  },
+  {
+    "time_sec": 95.318,
+    "minecraft_tick": 1906,
+    "type": "onset",
+    "original_tick": 1906
+  },
+  {
+    "time_sec": 95.666,
+    "minecraft_tick": 1913,
+    "type": "onset",
+    "original_tick": 1913
+  },
+  {
+    "time_sec": 95.689,
+    "minecraft_tick": 1914,
+    "type": "beat",
+    "original_tick": 1913
+  },
+  {
+    "time_sec": 96.015,
+    "minecraft_tick": 1920,
+    "type": "onset",
+    "original_tick": 1920
+  },
+  {
+    "time_sec": 96.386,
+    "minecraft_tick": 1928,
+    "type": "beat",
+    "original_tick": 1927
+  },
+  {
+    "time_sec": 96.386,
+    "minecraft_tick": 1928,
+    "type": "onset",
+    "original_tick": 1927
+  },
+  {
+    "time_sec": 96.525,
+    "minecraft_tick": 1930,
+    "type": "onset",
+    "original_tick": 1930
+  },
+  {
+    "time_sec": 96.734,
+    "minecraft_tick": 1935,
+    "type": "onset",
+    "original_tick": 1934
+  },
+  {
+    "time_sec": 97.059,
+    "minecraft_tick": 1941,
+    "type": "onset",
+    "original_tick": 1941
+  },
+  {
+    "time_sec": 97.083,
+    "minecraft_tick": 1942,
+    "type": "beat",
+    "original_tick": 1941
+  },
+  {
+    "time_sec": 97.245,
+    "minecraft_tick": 1945,
+    "type": "onset",
+    "original_tick": 1944
+  },
+  {
+    "time_sec": 97.384,
+    "minecraft_tick": 1948,
+    "type": "onset",
+    "original_tick": 1947
+  },
+  {
+    "time_sec": 97.71,
+    "minecraft_tick": 1954,
+    "type": "onset",
+    "original_tick": 1954
+  },
+  {
+    "time_sec": 97.733,
+    "minecraft_tick": 1955,
+    "type": "beat",
+    "original_tick": 1954
+  },
+  {
+    "time_sec": 97.919,
+    "minecraft_tick": 1958,
+    "type": "onset",
+    "original_tick": 1958
+  },
+  {
+    "time_sec": 98.058,
+    "minecraft_tick": 1961,
+    "type": "onset",
+    "original_tick": 1961
+  },
+  {
+    "time_sec": 98.383,
+    "minecraft_tick": 1968,
+    "type": "beat",
+    "original_tick": 1967
+  },
+  {
+    "time_sec": 98.383,
+    "minecraft_tick": 1968,
+    "type": "onset",
+    "original_tick": 1967
+  },
+  {
+    "time_sec": 98.708,
+    "minecraft_tick": 1974,
+    "type": "onset",
+    "original_tick": 1974
+  },
+  {
+    "time_sec": 99.056,
+    "minecraft_tick": 1981,
+    "type": "onset",
+    "original_tick": 1981
+  },
+  {
+    "time_sec": 99.08,
+    "minecraft_tick": 1982,
+    "type": "beat",
+    "original_tick": 1981
+  },
+  {
+    "time_sec": 99.242,
+    "minecraft_tick": 1985,
+    "type": "onset",
+    "original_tick": 1984
+  },
+  {
+    "time_sec": 99.381,
+    "minecraft_tick": 1988,
+    "type": "onset",
+    "original_tick": 1987
+  },
+  {
+    "time_sec": 99.544,
+    "minecraft_tick": 1991,
+    "type": "onset",
+    "original_tick": 1990
+  },
+  {
+    "time_sec": 99.706,
+    "minecraft_tick": 1994,
+    "type": "onset",
+    "original_tick": 1994
+  },
+  {
+    "time_sec": 99.73,
+    "minecraft_tick": 1995,
+    "type": "beat",
+    "original_tick": 1994
+  },
+  {
+    "time_sec": 100.055,
+    "minecraft_tick": 2001,
+    "type": "onset",
+    "original_tick": 2001
+  },
+  {
+    "time_sec": 100.241,
+    "minecraft_tick": 2005,
+    "type": "onset",
+    "original_tick": 2004
+  },
+  {
+    "time_sec": 100.38,
+    "minecraft_tick": 2008,
+    "type": "beat",
+    "original_tick": 2007
+  },
+  {
+    "time_sec": 100.38,
+    "minecraft_tick": 2008,
+    "type": "onset",
+    "original_tick": 2007
+  },
+  {
+    "time_sec": 100.728,
+    "minecraft_tick": 2015,
+    "type": "onset",
+    "original_tick": 2014
+  },
+  {
+    "time_sec": 100.891,
+    "minecraft_tick": 2018,
+    "type": "onset",
+    "original_tick": 2017
+  },
+  {
+    "time_sec": 101.076,
+    "minecraft_tick": 2022,
+    "type": "beat",
+    "original_tick": 2021
+  },
+  {
+    "time_sec": 101.076,
+    "minecraft_tick": 2022,
+    "type": "onset",
+    "original_tick": 2021
+  },
+  {
+    "time_sec": 101.239,
+    "minecraft_tick": 2025,
+    "type": "onset",
+    "original_tick": 2024
+  },
+  {
+    "time_sec": 101.378,
+    "minecraft_tick": 2028,
+    "type": "onset",
+    "original_tick": 2027
+  },
+  {
+    "time_sec": 101.727,
+    "minecraft_tick": 2035,
+    "type": "beat",
+    "original_tick": 2034
+  },
+  {
+    "time_sec": 101.727,
+    "minecraft_tick": 2035,
+    "type": "onset",
+    "original_tick": 2034
+  },
+  {
+    "time_sec": 102.028,
+    "minecraft_tick": 2041,
+    "type": "onset",
+    "original_tick": 2040
+  },
+  {
+    "time_sec": 102.377,
+    "minecraft_tick": 2048,
+    "type": "beat",
+    "original_tick": 2047
+  },
+  {
+    "time_sec": 102.377,
+    "minecraft_tick": 2048,
+    "type": "onset",
+    "original_tick": 2047
+  },
+  {
+    "time_sec": 102.539,
+    "minecraft_tick": 2051,
+    "type": "onset",
+    "original_tick": 2050
+  },
+  {
+    "time_sec": 102.702,
+    "minecraft_tick": 2054,
+    "type": "onset",
+    "original_tick": 2054
+  },
+  {
+    "time_sec": 102.864,
+    "minecraft_tick": 2057,
+    "type": "onset",
+    "original_tick": 2057
+  },
+  {
+    "time_sec": 103.027,
+    "minecraft_tick": 2061,
+    "type": "onset",
+    "original_tick": 2060
+  },
+  {
+    "time_sec": 103.05,
+    "minecraft_tick": 2061,
+    "type": "beat",
+    "original_tick": 2061
+  },
+  {
+    "time_sec": 103.213,
+    "minecraft_tick": 2064,
+    "type": "onset",
+    "original_tick": 2064
+  },
+  {
+    "time_sec": 103.352,
+    "minecraft_tick": 2067,
+    "type": "onset",
+    "original_tick": 2067
+  },
+  {
+    "time_sec": 103.724,
+    "minecraft_tick": 2074,
+    "type": "beat",
+    "original_tick": 2074
+  },
+  {
+    "time_sec": 103.724,
+    "minecraft_tick": 2074,
+    "type": "onset",
+    "original_tick": 2074
+  },
+  {
+    "time_sec": 103.886,
+    "minecraft_tick": 2078,
+    "type": "onset",
+    "original_tick": 2077
+  },
+  {
+    "time_sec": 104.049,
+    "minecraft_tick": 2081,
+    "type": "onset",
+    "original_tick": 2080
+  },
+  {
+    "time_sec": 104.211,
+    "minecraft_tick": 2084,
+    "type": "onset",
+    "original_tick": 2084
+  },
+  {
+    "time_sec": 104.397,
+    "minecraft_tick": 2088,
+    "type": "beat",
+    "original_tick": 2087
+  },
+  {
+    "time_sec": 104.397,
+    "minecraft_tick": 2088,
+    "type": "onset",
+    "original_tick": 2087
+  },
+  {
+    "time_sec": 104.768,
+    "minecraft_tick": 2095,
+    "type": "onset",
+    "original_tick": 2095
+  },
+  {
+    "time_sec": 105.094,
+    "minecraft_tick": 2102,
+    "type": "onset",
+    "original_tick": 2101
+  },
+  {
+    "time_sec": 105.117,
+    "minecraft_tick": 2102,
+    "type": "beat",
+    "original_tick": 2102
+  },
+  {
+    "time_sec": 105.79,
+    "minecraft_tick": 2116,
+    "type": "beat",
+    "original_tick": 2115
+  },
+  {
+    "time_sec": 105.79,
+    "minecraft_tick": 2116,
+    "type": "onset",
+    "original_tick": 2115
+  },
+  {
+    "time_sec": 106.162,
+    "minecraft_tick": 2123,
+    "type": "onset",
+    "original_tick": 2123
+  },
+  {
+    "time_sec": 106.487,
+    "minecraft_tick": 2130,
+    "type": "beat",
+    "original_tick": 2129
+  },
+  {
+    "time_sec": 106.812,
+    "minecraft_tick": 2136,
+    "type": "onset",
+    "original_tick": 2136
+  },
+  {
+    "time_sec": 107.183,
+    "minecraft_tick": 2144,
+    "type": "beat",
+    "original_tick": 2143
+  },
+  {
+    "time_sec": 107.833,
+    "minecraft_tick": 2157,
+    "type": "onset",
+    "original_tick": 2156
+  },
+  {
+    "time_sec": 107.857,
+    "minecraft_tick": 2157,
+    "type": "beat",
+    "original_tick": 2157
+  },
+  {
+    "time_sec": 108.182,
+    "minecraft_tick": 2164,
+    "type": "onset",
+    "original_tick": 2163
+  },
+  {
+    "time_sec": 108.53,
+    "minecraft_tick": 2171,
+    "type": "beat",
+    "original_tick": 2170
+  },
+  {
+    "time_sec": 108.855,
+    "minecraft_tick": 2177,
+    "type": "onset",
+    "original_tick": 2177
+  },
+  {
+    "time_sec": 109.18,
+    "minecraft_tick": 2184,
+    "type": "beat",
+    "original_tick": 2183
+  },
+  {
+    "time_sec": 109.18,
+    "minecraft_tick": 2184,
+    "type": "onset",
+    "original_tick": 2183
+  },
+  {
+    "time_sec": 109.854,
+    "minecraft_tick": 2197,
+    "type": "beat",
+    "original_tick": 2197
+  },
+  {
+    "time_sec": 109.854,
+    "minecraft_tick": 2197,
+    "type": "onset",
+    "original_tick": 2197
+  },
+  {
+    "time_sec": 110.202,
+    "minecraft_tick": 2204,
+    "type": "onset",
+    "original_tick": 2204
+  },
+  {
+    "time_sec": 110.55,
+    "minecraft_tick": 2211,
+    "type": "beat",
+    "original_tick": 2211
+  },
+  {
+    "time_sec": 110.875,
+    "minecraft_tick": 2218,
+    "type": "onset",
+    "original_tick": 2217
+  },
+  {
+    "time_sec": 111.224,
+    "minecraft_tick": 2224,
+    "type": "beat",
+    "original_tick": 2224
+  },
+  {
+    "time_sec": 111.897,
+    "minecraft_tick": 2238,
+    "type": "beat",
+    "original_tick": 2237
+  },
+  {
+    "time_sec": 111.897,
+    "minecraft_tick": 2238,
+    "type": "onset",
+    "original_tick": 2237
+  },
+  {
+    "time_sec": 112.222,
+    "minecraft_tick": 2244,
+    "type": "onset",
+    "original_tick": 2244
+  },
+  {
+    "time_sec": 112.57,
+    "minecraft_tick": 2251,
+    "type": "beat",
+    "original_tick": 2251
+  },
+  {
+    "time_sec": 112.895,
+    "minecraft_tick": 2258,
+    "type": "onset",
+    "original_tick": 2257
+  },
+  {
+    "time_sec": 113.22,
+    "minecraft_tick": 2264,
+    "type": "onset",
+    "original_tick": 2264
+  },
+  {
+    "time_sec": 113.244,
+    "minecraft_tick": 2265,
+    "type": "beat",
+    "original_tick": 2264
+  },
+  {
+    "time_sec": 113.569,
+    "minecraft_tick": 2271,
+    "type": "onset",
+    "original_tick": 2271
+  },
+  {
+    "time_sec": 113.917,
+    "minecraft_tick": 2278,
+    "type": "beat",
+    "original_tick": 2278
+  },
+  {
+    "time_sec": 113.917,
+    "minecraft_tick": 2278,
+    "type": "onset",
+    "original_tick": 2278
+  },
+  {
+    "time_sec": 114.242,
+    "minecraft_tick": 2285,
+    "type": "onset",
+    "original_tick": 2284
+  },
+  {
+    "time_sec": 114.59,
+    "minecraft_tick": 2292,
+    "type": "onset",
+    "original_tick": 2291
+  },
+  {
+    "time_sec": 114.614,
+    "minecraft_tick": 2292,
+    "type": "beat",
+    "original_tick": 2292
+  },
+  {
+    "time_sec": 114.916,
+    "minecraft_tick": 2298,
+    "type": "onset",
+    "original_tick": 2298
+  },
+  {
+    "time_sec": 115.264,
+    "minecraft_tick": 2305,
+    "type": "onset",
+    "original_tick": 2305
+  },
+  {
+    "time_sec": 115.287,
+    "minecraft_tick": 2306,
+    "type": "beat",
+    "original_tick": 2305
+  },
+  {
+    "time_sec": 115.334,
+    "minecraft_tick": 2307,
+    "type": "onset",
+    "original_tick": 2306
+  },
+  {
+    "time_sec": 115.589,
+    "minecraft_tick": 2312,
+    "type": "onset",
+    "original_tick": 2311
+  },
+  {
+    "time_sec": 115.984,
+    "minecraft_tick": 2320,
+    "type": "beat",
+    "original_tick": 2319
+  },
+  {
+    "time_sec": 115.984,
+    "minecraft_tick": 2320,
+    "type": "onset",
+    "original_tick": 2319
+  },
+  {
+    "time_sec": 116.309,
+    "minecraft_tick": 2326,
+    "type": "onset",
+    "original_tick": 2326
+  },
+  {
+    "time_sec": 116.634,
+    "minecraft_tick": 2333,
+    "type": "beat",
+    "original_tick": 2332
+  },
+  {
+    "time_sec": 116.634,
+    "minecraft_tick": 2333,
+    "type": "onset",
+    "original_tick": 2332
+  },
+  {
+    "time_sec": 116.982,
+    "minecraft_tick": 2340,
+    "type": "onset",
+    "original_tick": 2339
+  },
+  {
+    "time_sec": 117.307,
+    "minecraft_tick": 2346,
+    "type": "onset",
+    "original_tick": 2346
+  },
+  {
+    "time_sec": 117.33,
+    "minecraft_tick": 2347,
+    "type": "beat",
+    "original_tick": 2346
+  },
+  {
+    "time_sec": 117.864,
+    "minecraft_tick": 2357,
+    "type": "onset",
+    "original_tick": 2357
+  },
+  {
+    "time_sec": 118.004,
+    "minecraft_tick": 2360,
+    "type": "beat",
+    "original_tick": 2360
+  },
+  {
+    "time_sec": 118.004,
+    "minecraft_tick": 2360,
+    "type": "onset",
+    "original_tick": 2360
+  },
+  {
+    "time_sec": 118.352,
+    "minecraft_tick": 2367,
+    "type": "onset",
+    "original_tick": 2367
+  },
+  {
+    "time_sec": 118.7,
+    "minecraft_tick": 2374,
+    "type": "beat",
+    "original_tick": 2374
+  },
+  {
+    "time_sec": 118.7,
+    "minecraft_tick": 2374,
+    "type": "onset",
+    "original_tick": 2374
+  },
+  {
+    "time_sec": 118.886,
+    "minecraft_tick": 2378,
+    "type": "onset",
+    "original_tick": 2377
+  },
+  {
+    "time_sec": 119.025,
+    "minecraft_tick": 2380,
+    "type": "onset",
+    "original_tick": 2380
+  },
+  {
+    "time_sec": 119.42,
+    "minecraft_tick": 2388,
+    "type": "beat",
+    "original_tick": 2388
+  },
+  {
+    "time_sec": 120.07,
+    "minecraft_tick": 2401,
+    "type": "onset",
+    "original_tick": 2401
+  },
+  {
+    "time_sec": 120.094,
+    "minecraft_tick": 2402,
+    "type": "beat",
+    "original_tick": 2401
+  },
+  {
+    "time_sec": 120.79,
+    "minecraft_tick": 2416,
+    "type": "beat",
+    "original_tick": 2415
+  },
+  {
+    "time_sec": 120.79,
+    "minecraft_tick": 2416,
+    "type": "onset",
+    "original_tick": 2415
+  },
+  {
+    "time_sec": 120.953,
+    "minecraft_tick": 2419,
+    "type": "onset",
+    "original_tick": 2419
+  },
+  {
+    "time_sec": 121.092,
+    "minecraft_tick": 2422,
+    "type": "onset",
+    "original_tick": 2421
+  },
+  {
+    "time_sec": 121.487,
+    "minecraft_tick": 2430,
+    "type": "beat",
+    "original_tick": 2429
+  },
+  {
+    "time_sec": 121.487,
+    "minecraft_tick": 2430,
+    "type": "onset",
+    "original_tick": 2429
+  },
+  {
+    "time_sec": 122.183,
+    "minecraft_tick": 2444,
+    "type": "beat",
+    "original_tick": 2443
+  },
+  {
+    "time_sec": 122.926,
+    "minecraft_tick": 2459,
+    "type": "onset",
+    "original_tick": 2458
+  },
+  {
+    "time_sec": 122.95,
+    "minecraft_tick": 2459,
+    "type": "beat",
+    "original_tick": 2458
+  },
+  {
+    "time_sec": 123.646,
+    "minecraft_tick": 2473,
+    "type": "beat",
+    "original_tick": 2472
+  },
+  {
+    "time_sec": 123.669,
+    "minecraft_tick": 2473,
+    "type": "onset",
+    "original_tick": 2473
+  },
+  {
+    "time_sec": 124.32,
+    "minecraft_tick": 2486,
+    "type": "beat",
+    "original_tick": 2486
+  },
+  {
+    "time_sec": 124.32,
+    "minecraft_tick": 2486,
+    "type": "onset",
+    "original_tick": 2486
+  },
+  {
+    "time_sec": 124.993,
+    "minecraft_tick": 2500,
+    "type": "beat",
+    "original_tick": 2499
+  },
+  {
+    "time_sec": 125.295,
+    "minecraft_tick": 2506,
+    "type": "onset",
+    "original_tick": 2505
+  },
+  {
+    "time_sec": 125.643,
+    "minecraft_tick": 2513,
+    "type": "onset",
+    "original_tick": 2512
+  },
+  {
+    "time_sec": 125.666,
+    "minecraft_tick": 2513,
+    "type": "beat",
+    "original_tick": 2513
+  },
+  {
+    "time_sec": 126.293,
+    "minecraft_tick": 2526,
+    "type": "onset",
+    "original_tick": 2525
+  },
+  {
+    "time_sec": 126.317,
+    "minecraft_tick": 2526,
+    "type": "beat",
+    "original_tick": 2526
+  },
+  {
+    "time_sec": 127.013,
+    "minecraft_tick": 2540,
+    "type": "beat",
+    "original_tick": 2540
+  },
+  {
+    "time_sec": 127.315,
+    "minecraft_tick": 2546,
+    "type": "onset",
+    "original_tick": 2546
+  },
+  {
+    "time_sec": 127.71,
+    "minecraft_tick": 2554,
+    "type": "beat",
+    "original_tick": 2554
+  },
+  {
+    "time_sec": 127.71,
+    "minecraft_tick": 2554,
+    "type": "onset",
+    "original_tick": 2554
+  },
+  {
+    "time_sec": 128.337,
+    "minecraft_tick": 2567,
+    "type": "beat",
+    "original_tick": 2566
+  },
+  {
+    "time_sec": 128.337,
+    "minecraft_tick": 2567,
+    "type": "onset",
+    "original_tick": 2566
+  },
+  {
+    "time_sec": 128.662,
+    "minecraft_tick": 2573,
+    "type": "onset",
+    "original_tick": 2573
+  },
+  {
+    "time_sec": 129.033,
+    "minecraft_tick": 2581,
+    "type": "beat",
+    "original_tick": 2580
+  },
+  {
+    "time_sec": 129.335,
+    "minecraft_tick": 2587,
+    "type": "onset",
+    "original_tick": 2586
+  },
+  {
+    "time_sec": 129.683,
+    "minecraft_tick": 2594,
+    "type": "onset",
+    "original_tick": 2593
+  },
+  {
+    "time_sec": 129.707,
+    "minecraft_tick": 2594,
+    "type": "beat",
+    "original_tick": 2594
+  },
+  {
+    "time_sec": 130.032,
+    "minecraft_tick": 2601,
+    "type": "onset",
+    "original_tick": 2600
+  },
+  {
+    "time_sec": 130.357,
+    "minecraft_tick": 2607,
+    "type": "onset",
+    "original_tick": 2607
+  },
+  {
+    "time_sec": 130.38,
+    "minecraft_tick": 2608,
+    "type": "beat",
+    "original_tick": 2607
+  },
+  {
+    "time_sec": 130.705,
+    "minecraft_tick": 2614,
+    "type": "onset",
+    "original_tick": 2614
+  },
+  {
+    "time_sec": 131.077,
+    "minecraft_tick": 2622,
+    "type": "beat",
+    "original_tick": 2621
+  },
+  {
+    "time_sec": 131.379,
+    "minecraft_tick": 2628,
+    "type": "onset",
+    "original_tick": 2627
+  },
+  {
+    "time_sec": 131.727,
+    "minecraft_tick": 2635,
+    "type": "beat",
+    "original_tick": 2634
+  },
+  {
+    "time_sec": 132.4,
+    "minecraft_tick": 2648,
+    "type": "beat",
+    "original_tick": 2648
+  },
+  {
+    "time_sec": 133.074,
+    "minecraft_tick": 2661,
+    "type": "beat",
+    "original_tick": 2661
+  },
+  {
+    "time_sec": 133.375,
+    "minecraft_tick": 2668,
+    "type": "onset",
+    "original_tick": 2667
+  },
+  {
+    "time_sec": 133.724,
+    "minecraft_tick": 2674,
+    "type": "onset",
+    "original_tick": 2674
+  },
+  {
+    "time_sec": 133.747,
+    "minecraft_tick": 2675,
+    "type": "beat",
+    "original_tick": 2674
+  },
+  {
+    "time_sec": 134.374,
+    "minecraft_tick": 2687,
+    "type": "onset",
+    "original_tick": 2687
+  },
+  {
+    "time_sec": 134.397,
+    "minecraft_tick": 2688,
+    "type": "beat",
+    "original_tick": 2687
+  },
+  {
+    "time_sec": 135.094,
+    "minecraft_tick": 2702,
+    "type": "beat",
+    "original_tick": 2701
+  },
+  {
+    "time_sec": 135.396,
+    "minecraft_tick": 2708,
+    "type": "onset",
+    "original_tick": 2707
+  },
+  {
+    "time_sec": 135.767,
+    "minecraft_tick": 2715,
+    "type": "beat",
+    "original_tick": 2715
+  },
+  {
+    "time_sec": 136.394,
+    "minecraft_tick": 2728,
+    "type": "onset",
+    "original_tick": 2727
+  },
+  {
+    "time_sec": 136.417,
+    "minecraft_tick": 2728,
+    "type": "beat",
+    "original_tick": 2728
+  },
+  {
+    "time_sec": 136.766,
+    "minecraft_tick": 2735,
+    "type": "onset",
+    "original_tick": 2735
+  },
+  {
+    "time_sec": 137.114,
+    "minecraft_tick": 2742,
+    "type": "beat",
+    "original_tick": 2742
+  },
+  {
+    "time_sec": 137.114,
+    "minecraft_tick": 2742,
+    "type": "onset",
+    "original_tick": 2742
+  },
+  {
+    "time_sec": 137.253,
+    "minecraft_tick": 2745,
+    "type": "onset",
+    "original_tick": 2745
+  },
+  {
+    "time_sec": 137.416,
+    "minecraft_tick": 2748,
+    "type": "onset",
+    "original_tick": 2748
+  },
+  {
+    "time_sec": 137.601,
+    "minecraft_tick": 2752,
+    "type": "onset",
+    "original_tick": 2752
+  },
+  {
+    "time_sec": 137.764,
+    "minecraft_tick": 2755,
+    "type": "onset",
+    "original_tick": 2755
+  },
+  {
+    "time_sec": 137.787,
+    "minecraft_tick": 2756,
+    "type": "beat",
+    "original_tick": 2755
+  },
+  {
+    "time_sec": 138.089,
+    "minecraft_tick": 2762,
+    "type": "onset",
+    "original_tick": 2761
+  },
+  {
+    "time_sec": 138.437,
+    "minecraft_tick": 2769,
+    "type": "beat",
+    "original_tick": 2768
+  },
+  {
+    "time_sec": 138.437,
+    "minecraft_tick": 2769,
+    "type": "onset",
+    "original_tick": 2768
+  },
+  {
+    "time_sec": 138.6,
+    "minecraft_tick": 2772,
+    "type": "onset",
+    "original_tick": 2771
+  },
+  {
+    "time_sec": 138.786,
+    "minecraft_tick": 2776,
+    "type": "onset",
+    "original_tick": 2775
+  },
+  {
+    "time_sec": 138.995,
+    "minecraft_tick": 2780,
+    "type": "beat",
+    "original_tick": 2779
+  },
+  {
+    "time_sec": 139.134,
+    "minecraft_tick": 2783,
+    "type": "onset",
+    "original_tick": 2782
+  },
+  {
+    "time_sec": 139.482,
+    "minecraft_tick": 2790,
+    "type": "onset",
+    "original_tick": 2789
+  },
+  {
+    "time_sec": 139.575,
+    "minecraft_tick": 2792,
+    "type": "beat",
+    "original_tick": 2791
+  },
+  {
+    "time_sec": 139.831,
+    "minecraft_tick": 2797,
+    "type": "onset",
+    "original_tick": 2796
+  },
+  {
+    "time_sec": 140.132,
+    "minecraft_tick": 2803,
+    "type": "onset",
+    "original_tick": 2802
+  },
+  {
+    "time_sec": 140.156,
+    "minecraft_tick": 2803,
+    "type": "beat",
+    "original_tick": 2803
+  },
+  {
+    "time_sec": 140.481,
+    "minecraft_tick": 2810,
+    "type": "onset",
+    "original_tick": 2809
+  },
+  {
+    "time_sec": 140.829,
+    "minecraft_tick": 2817,
+    "type": "onset",
+    "original_tick": 2816
+  },
+  {
+    "time_sec": 140.852,
+    "minecraft_tick": 2817,
+    "type": "beat",
+    "original_tick": 2817
+  },
+  {
+    "time_sec": 141.177,
+    "minecraft_tick": 2824,
+    "type": "onset",
+    "original_tick": 2823
+  },
+  {
+    "time_sec": 141.479,
+    "minecraft_tick": 2830,
+    "type": "onset",
+    "original_tick": 2829
+  },
+  {
+    "time_sec": 141.502,
+    "minecraft_tick": 2830,
+    "type": "beat",
+    "original_tick": 2830
+  },
+  {
+    "time_sec": 141.851,
+    "minecraft_tick": 2837,
+    "type": "onset",
+    "original_tick": 2837
+  },
+  {
+    "time_sec": 142.176,
+    "minecraft_tick": 2844,
+    "type": "onset",
+    "original_tick": 2843
+  },
+  {
+    "time_sec": 142.199,
+    "minecraft_tick": 2844,
+    "type": "beat",
+    "original_tick": 2843
+  },
+  {
+    "time_sec": 142.71,
+    "minecraft_tick": 2854,
+    "type": "onset",
+    "original_tick": 2854
+  },
+  {
+    "time_sec": 142.896,
+    "minecraft_tick": 2858,
+    "type": "beat",
+    "original_tick": 2857
+  },
+  {
+    "time_sec": 142.896,
+    "minecraft_tick": 2858,
+    "type": "onset",
+    "original_tick": 2857
+  },
+  {
+    "time_sec": 143.244,
+    "minecraft_tick": 2865,
+    "type": "onset",
+    "original_tick": 2864
+  },
+  {
+    "time_sec": 143.546,
+    "minecraft_tick": 2871,
+    "type": "onset",
+    "original_tick": 2870
+  },
+  {
+    "time_sec": 143.569,
+    "minecraft_tick": 2871,
+    "type": "beat",
+    "original_tick": 2871
+  },
+  {
+    "time_sec": 143.94,
+    "minecraft_tick": 2879,
+    "type": "onset",
+    "original_tick": 2878
+  },
+  {
+    "time_sec": 144.266,
+    "minecraft_tick": 2885,
+    "type": "beat",
+    "original_tick": 2885
+  },
+  {
+    "time_sec": 144.266,
+    "minecraft_tick": 2885,
+    "type": "onset",
+    "original_tick": 2885
+  },
+  {
+    "time_sec": 144.591,
+    "minecraft_tick": 2892,
+    "type": "onset",
+    "original_tick": 2891
+  },
+  {
+    "time_sec": 144.939,
+    "minecraft_tick": 2899,
+    "type": "beat",
+    "original_tick": 2898
+  },
+  {
+    "time_sec": 144.939,
+    "minecraft_tick": 2899,
+    "type": "onset",
+    "original_tick": 2898
+  },
+  {
+    "time_sec": 145.125,
+    "minecraft_tick": 2902,
+    "type": "onset",
+    "original_tick": 2902
+  },
+  {
+    "time_sec": 145.287,
+    "minecraft_tick": 2906,
+    "type": "onset",
+    "original_tick": 2905
+  },
+  {
+    "time_sec": 145.612,
+    "minecraft_tick": 2912,
+    "type": "onset",
+    "original_tick": 2912
+  },
+  {
+    "time_sec": 145.636,
+    "minecraft_tick": 2913,
+    "type": "beat",
+    "original_tick": 2912
+  },
+  {
+    "time_sec": 145.798,
+    "minecraft_tick": 2916,
+    "type": "onset",
+    "original_tick": 2915
+  },
+  {
+    "time_sec": 145.961,
+    "minecraft_tick": 2919,
+    "type": "onset",
+    "original_tick": 2919
+  },
+  {
+    "time_sec": 146.123,
+    "minecraft_tick": 2922,
+    "type": "onset",
+    "original_tick": 2922
+  },
+  {
+    "time_sec": 146.309,
+    "minecraft_tick": 2926,
+    "type": "beat",
+    "original_tick": 2926
+  },
+  {
+    "time_sec": 146.309,
+    "minecraft_tick": 2926,
+    "type": "onset",
+    "original_tick": 2926
+  },
+  {
+    "time_sec": 146.634,
+    "minecraft_tick": 2933,
+    "type": "onset",
+    "original_tick": 2932
+  },
+  {
+    "time_sec": 146.797,
+    "minecraft_tick": 2936,
+    "type": "onset",
+    "original_tick": 2935
+  },
+  {
+    "time_sec": 146.982,
+    "minecraft_tick": 2940,
+    "type": "beat",
+    "original_tick": 2939
+  },
+  {
+    "time_sec": 146.982,
+    "minecraft_tick": 2940,
+    "type": "onset",
+    "original_tick": 2939
+  },
+  {
+    "time_sec": 147.331,
+    "minecraft_tick": 2947,
+    "type": "onset",
+    "original_tick": 2946
+  },
+  {
+    "time_sec": 147.632,
+    "minecraft_tick": 2953,
+    "type": "onset",
+    "original_tick": 2952
+  },
+  {
+    "time_sec": 147.656,
+    "minecraft_tick": 2953,
+    "type": "beat",
+    "original_tick": 2953
+  },
+  {
+    "time_sec": 147.981,
+    "minecraft_tick": 2960,
+    "type": "onset",
+    "original_tick": 2959
+  },
+  {
+    "time_sec": 148.445,
+    "minecraft_tick": 2969,
+    "type": "beat",
+    "original_tick": 2968
+  },
+  {
+    "time_sec": 149.235,
+    "minecraft_tick": 2985,
+    "type": "beat",
+    "original_tick": 2984
+  },
+  {
+    "time_sec": 149.978,
+    "minecraft_tick": 3000,
+    "type": "beat",
+    "original_tick": 2999
+  },
+  {
+    "time_sec": 149.978,
+    "minecraft_tick": 3000,
+    "type": "onset",
+    "original_tick": 2999
+  },
+  {
+    "time_sec": 150.651,
+    "minecraft_tick": 3013,
+    "type": "onset",
+    "original_tick": 3013
+  },
+  {
+    "time_sec": 150.674,
+    "minecraft_tick": 3013,
+    "type": "beat",
+    "original_tick": 3013
+  },
+  {
+    "time_sec": 150.999,
+    "minecraft_tick": 3020,
+    "type": "onset",
+    "original_tick": 3019
+  },
+  {
+    "time_sec": 151.348,
+    "minecraft_tick": 3027,
+    "type": "beat",
+    "original_tick": 3026
+  },
+  {
+    "time_sec": 151.673,
+    "minecraft_tick": 3033,
+    "type": "onset",
+    "original_tick": 3033
+  },
+  {
+    "time_sec": 152.021,
+    "minecraft_tick": 3040,
+    "type": "beat",
+    "original_tick": 3040
+  },
+  {
+    "time_sec": 152.021,
+    "minecraft_tick": 3040,
+    "type": "onset",
+    "original_tick": 3040
+  },
+  {
+    "time_sec": 152.369,
+    "minecraft_tick": 3047,
+    "type": "onset",
+    "original_tick": 3047
+  },
+  {
+    "time_sec": 152.694,
+    "minecraft_tick": 3054,
+    "type": "beat",
+    "original_tick": 3053
+  },
+  {
+    "time_sec": 153.368,
+    "minecraft_tick": 3067,
+    "type": "beat",
+    "original_tick": 3067
+  },
+  {
+    "time_sec": 153.368,
+    "minecraft_tick": 3067,
+    "type": "onset",
+    "original_tick": 3067
+  },
+  {
+    "time_sec": 154.064,
+    "minecraft_tick": 3081,
+    "type": "beat",
+    "original_tick": 3081
+  },
+  {
+    "time_sec": 154.413,
+    "minecraft_tick": 3088,
+    "type": "onset",
+    "original_tick": 3088
+  },
+  {
+    "time_sec": 154.738,
+    "minecraft_tick": 3095,
+    "type": "onset",
+    "original_tick": 3094
+  },
+  {
+    "time_sec": 154.761,
+    "minecraft_tick": 3095,
+    "type": "beat",
+    "original_tick": 3095
+  },
+  {
+    "time_sec": 155.086,
+    "minecraft_tick": 3102,
+    "type": "onset",
+    "original_tick": 3101
+  },
+  {
+    "time_sec": 155.411,
+    "minecraft_tick": 3108,
+    "type": "onset",
+    "original_tick": 3108
+  },
+  {
+    "time_sec": 155.434,
+    "minecraft_tick": 3109,
+    "type": "beat",
+    "original_tick": 3108
+  },
+  {
+    "time_sec": 155.783,
+    "minecraft_tick": 3116,
+    "type": "onset",
+    "original_tick": 3115
+  },
+  {
+    "time_sec": 156.108,
+    "minecraft_tick": 3122,
+    "type": "beat",
+    "original_tick": 3122
+  },
+  {
+    "time_sec": 156.781,
+    "minecraft_tick": 3136,
+    "type": "beat",
+    "original_tick": 3135
+  },
+  {
+    "time_sec": 156.781,
+    "minecraft_tick": 3136,
+    "type": "onset",
+    "original_tick": 3135
+  },
+  {
+    "time_sec": 157.408,
+    "minecraft_tick": 3148,
+    "type": "beat",
+    "original_tick": 3148
+  },
+  {
+    "time_sec": 157.687,
+    "minecraft_tick": 3154,
+    "type": "onset",
+    "original_tick": 3153
+  },
+  {
+    "time_sec": 158.058,
+    "minecraft_tick": 3161,
+    "type": "beat",
+    "original_tick": 3161
+  },
+  {
+    "time_sec": 158.708,
+    "minecraft_tick": 3174,
+    "type": "beat",
+    "original_tick": 3174
+  },
+  {
+    "time_sec": 159.382,
+    "minecraft_tick": 3188,
+    "type": "beat",
+    "original_tick": 3187
+  },
+  {
+    "time_sec": 159.823,
+    "minecraft_tick": 3196,
+    "type": "onset",
+    "original_tick": 3196
+  },
+  {
+    "time_sec": 160.009,
+    "minecraft_tick": 3200,
+    "type": "beat",
+    "original_tick": 3200
+  },
+  {
+    "time_sec": 160.682,
+    "minecraft_tick": 3214,
+    "type": "beat",
+    "original_tick": 3213
+  },
+  {
+    "time_sec": 161.332,
+    "minecraft_tick": 3227,
+    "type": "beat",
+    "original_tick": 3226
+  },
+  {
+    "time_sec": 162.052,
+    "minecraft_tick": 3241,
+    "type": "beat",
+    "original_tick": 3241
+  },
+  {
+    "time_sec": 162.377,
+    "minecraft_tick": 3248,
+    "type": "onset",
+    "original_tick": 3247
+  },
+  {
+    "time_sec": 162.749,
+    "minecraft_tick": 3255,
+    "type": "beat",
+    "original_tick": 3254
+  },
+  {
+    "time_sec": 162.749,
+    "minecraft_tick": 3255,
+    "type": "onset",
+    "original_tick": 3254
+  },
+  {
+    "time_sec": 163.097,
+    "minecraft_tick": 3262,
+    "type": "onset",
+    "original_tick": 3261
+  },
+  {
+    "time_sec": 163.26,
+    "minecraft_tick": 3265,
+    "type": "onset",
+    "original_tick": 3265
+  },
+  {
+    "time_sec": 163.422,
+    "minecraft_tick": 3268,
+    "type": "beat",
+    "original_tick": 3268
+  },
+  {
+    "time_sec": 163.422,
+    "minecraft_tick": 3268,
+    "type": "onset",
+    "original_tick": 3268
+  },
+  {
+    "time_sec": 163.724,
+    "minecraft_tick": 3274,
+    "type": "onset",
+    "original_tick": 3274
+  },
+  {
+    "time_sec": 164.072,
+    "minecraft_tick": 3281,
+    "type": "beat",
+    "original_tick": 3281
+  },
+  {
+    "time_sec": 164.072,
+    "minecraft_tick": 3281,
+    "type": "onset",
+    "original_tick": 3281
+  },
+  {
+    "time_sec": 164.699,
+    "minecraft_tick": 3294,
+    "type": "onset",
+    "original_tick": 3293
+  },
+  {
+    "time_sec": 164.722,
+    "minecraft_tick": 3294,
+    "type": "beat",
+    "original_tick": 3294
+  },
+  {
+    "time_sec": 165.071,
+    "minecraft_tick": 3301,
+    "type": "onset",
+    "original_tick": 3301
+  },
+  {
+    "time_sec": 165.349,
+    "minecraft_tick": 3307,
+    "type": "onset",
+    "original_tick": 3306
+  },
+  {
+    "time_sec": 165.373,
+    "minecraft_tick": 3307,
+    "type": "beat",
+    "original_tick": 3307
+  },
+  {
+    "time_sec": 165.86,
+    "minecraft_tick": 3317,
+    "type": "onset",
+    "original_tick": 3317
+  },
+  {
+    "time_sec": 166.069,
+    "minecraft_tick": 3321,
+    "type": "beat",
+    "original_tick": 3321
+  },
+  {
+    "time_sec": 166.766,
+    "minecraft_tick": 3335,
+    "type": "beat",
+    "original_tick": 3335
+  },
+  {
+    "time_sec": 166.766,
+    "minecraft_tick": 3335,
+    "type": "onset",
+    "original_tick": 3335
+  },
+  {
+    "time_sec": 167.068,
+    "minecraft_tick": 3341,
+    "type": "onset",
+    "original_tick": 3341
+  },
+  {
+    "time_sec": 167.393,
+    "minecraft_tick": 3348,
+    "type": "beat",
+    "original_tick": 3347
+  },
+  {
+    "time_sec": 167.695,
+    "minecraft_tick": 3354,
+    "type": "onset",
+    "original_tick": 3353
+  },
+  {
+    "time_sec": 168.043,
+    "minecraft_tick": 3361,
+    "type": "beat",
+    "original_tick": 3360
+  },
+  {
+    "time_sec": 168.043,
+    "minecraft_tick": 3361,
+    "type": "onset",
+    "original_tick": 3360
+  },
+  {
+    "time_sec": 168.67,
+    "minecraft_tick": 3373,
+    "type": "beat",
+    "original_tick": 3373
+  },
+  {
+    "time_sec": 168.67,
+    "minecraft_tick": 3373,
+    "type": "onset",
+    "original_tick": 3373
+  },
+  {
+    "time_sec": 168.995,
+    "minecraft_tick": 3380,
+    "type": "onset",
+    "original_tick": 3379
+  },
+  {
+    "time_sec": 169.343,
+    "minecraft_tick": 3387,
+    "type": "beat",
+    "original_tick": 3386
+  },
+  {
+    "time_sec": 169.343,
+    "minecraft_tick": 3387,
+    "type": "onset",
+    "original_tick": 3386
+  },
+  {
+    "time_sec": 169.668,
+    "minecraft_tick": 3393,
+    "type": "onset",
+    "original_tick": 3393
+  },
+  {
+    "time_sec": 169.97,
+    "minecraft_tick": 3399,
+    "type": "beat",
+    "original_tick": 3399
+  },
+  {
+    "time_sec": 169.97,
+    "minecraft_tick": 3399,
+    "type": "onset",
+    "original_tick": 3399
+  },
+  {
+    "time_sec": 170.295,
+    "minecraft_tick": 3406,
+    "type": "onset",
+    "original_tick": 3405
+  },
+  {
+    "time_sec": 170.62,
+    "minecraft_tick": 3412,
+    "type": "beat",
+    "original_tick": 3412
+  },
+  {
+    "time_sec": 170.62,
+    "minecraft_tick": 3412,
+    "type": "onset",
+    "original_tick": 3412
+  },
+  {
+    "time_sec": 170.945,
+    "minecraft_tick": 3419,
+    "type": "onset",
+    "original_tick": 3418
+  },
+  {
+    "time_sec": 171.317,
+    "minecraft_tick": 3426,
+    "type": "beat",
+    "original_tick": 3426
+  },
+  {
+    "time_sec": 171.572,
+    "minecraft_tick": 3431,
+    "type": "onset",
+    "original_tick": 3431
+  },
+  {
+    "time_sec": 171.758,
+    "minecraft_tick": 3435,
+    "type": "onset",
+    "original_tick": 3435
+  },
+  {
+    "time_sec": 172.037,
+    "minecraft_tick": 3441,
+    "type": "beat",
+    "original_tick": 3440
+  },
+  {
+    "time_sec": 172.547,
+    "minecraft_tick": 3451,
+    "type": "onset",
+    "original_tick": 3450
+  },
+  {
+    "time_sec": 172.78,
+    "minecraft_tick": 3456,
+    "type": "beat",
+    "original_tick": 3455
+  },
+  {
+    "time_sec": 173.5,
+    "minecraft_tick": 3470,
+    "type": "beat",
+    "original_tick": 3469
+  },
+  {
+    "time_sec": 173.5,
+    "minecraft_tick": 3470,
+    "type": "onset",
+    "original_tick": 3469
+  },
+  {
+    "time_sec": 174.196,
+    "minecraft_tick": 3484,
+    "type": "beat",
+    "original_tick": 3483
+  },
+  {
+    "time_sec": 174.196,
+    "minecraft_tick": 3484,
+    "type": "onset",
+    "original_tick": 3483
+  },
+  {
+    "time_sec": 174.498,
+    "minecraft_tick": 3490,
+    "type": "onset",
+    "original_tick": 3489
+  },
+  {
+    "time_sec": 174.823,
+    "minecraft_tick": 3496,
+    "type": "onset",
+    "original_tick": 3496
+  },
+  {
+    "time_sec": 174.846,
+    "minecraft_tick": 3497,
+    "type": "beat",
+    "original_tick": 3496
+  },
+  {
+    "time_sec": 175.496,
+    "minecraft_tick": 3510,
+    "type": "beat",
+    "original_tick": 3509
+  },
+  {
+    "time_sec": 175.496,
+    "minecraft_tick": 3510,
+    "type": "onset",
+    "original_tick": 3509
+  },
+  {
+    "time_sec": 175.821,
+    "minecraft_tick": 3516,
+    "type": "onset",
+    "original_tick": 3516
+  },
+  {
+    "time_sec": 176.147,
+    "minecraft_tick": 3523,
+    "type": "beat",
+    "original_tick": 3522
+  },
+  {
+    "time_sec": 176.147,
+    "minecraft_tick": 3523,
+    "type": "onset",
+    "original_tick": 3522
+  },
+  {
+    "time_sec": 176.495,
+    "minecraft_tick": 3530,
+    "type": "onset",
+    "original_tick": 3529
+  },
+  {
+    "time_sec": 176.843,
+    "minecraft_tick": 3537,
+    "type": "beat",
+    "original_tick": 3536
+  },
+  {
+    "time_sec": 176.843,
+    "minecraft_tick": 3537,
+    "type": "onset",
+    "original_tick": 3536
+  },
+  {
+    "time_sec": 177.47,
+    "minecraft_tick": 3549,
+    "type": "onset",
+    "original_tick": 3549
+  },
+  {
+    "time_sec": 177.493,
+    "minecraft_tick": 3550,
+    "type": "beat",
+    "original_tick": 3549
+  },
+  {
+    "time_sec": 177.818,
+    "minecraft_tick": 3556,
+    "type": "onset",
+    "original_tick": 3556
+  },
+  {
+    "time_sec": 178.143,
+    "minecraft_tick": 3563,
+    "type": "onset",
+    "original_tick": 3562
+  },
+  {
+    "time_sec": 178.167,
+    "minecraft_tick": 3563,
+    "type": "beat",
+    "original_tick": 3563
+  },
+  {
+    "time_sec": 178.492,
+    "minecraft_tick": 3570,
+    "type": "onset",
+    "original_tick": 3569
+  },
+  {
+    "time_sec": 178.817,
+    "minecraft_tick": 3576,
+    "type": "onset",
+    "original_tick": 3576
+  },
+  {
+    "time_sec": 178.84,
+    "minecraft_tick": 3577,
+    "type": "beat",
+    "original_tick": 3576
+  },
+  {
+    "time_sec": 179.142,
+    "minecraft_tick": 3583,
+    "type": "onset",
+    "original_tick": 3582
+  },
+  {
+    "time_sec": 179.444,
+    "minecraft_tick": 3589,
+    "type": "onset",
+    "original_tick": 3588
+  },
+  {
+    "time_sec": 179.467,
+    "minecraft_tick": 3589,
+    "type": "beat",
+    "original_tick": 3589
+  },
+  {
+    "time_sec": 179.792,
+    "minecraft_tick": 3596,
+    "type": "onset",
+    "original_tick": 3595
+  },
+  {
+    "time_sec": 180.14,
+    "minecraft_tick": 3603,
+    "type": "beat",
+    "original_tick": 3602
+  },
+  {
+    "time_sec": 180.791,
+    "minecraft_tick": 3616,
+    "type": "beat",
+    "original_tick": 3615
+  },
+  {
+    "time_sec": 181.464,
+    "minecraft_tick": 3629,
+    "type": "beat",
+    "original_tick": 3629
+  },
+  {
+    "time_sec": 182.091,
+    "minecraft_tick": 3642,
+    "type": "beat",
+    "original_tick": 3641
+  },
+  {
+    "time_sec": 182.741,
+    "minecraft_tick": 3655,
+    "type": "beat",
+    "original_tick": 3654
+  },
+  {
+    "time_sec": 183.438,
+    "minecraft_tick": 3669,
+    "type": "beat",
+    "original_tick": 3668
+  },
+  {
+    "time_sec": 184.181,
+    "minecraft_tick": 3684,
+    "type": "beat",
+    "original_tick": 3683
+  },
+  {
+    "time_sec": 184.877,
+    "minecraft_tick": 3698,
+    "type": "beat",
+    "original_tick": 3697
+  },
+  {
+    "time_sec": 185.411,
+    "minecraft_tick": 3708,
+    "type": "onset",
+    "original_tick": 3708
+  },
+  {
+    "time_sec": 185.551,
+    "minecraft_tick": 3711,
+    "type": "beat",
+    "original_tick": 3711
+  },
+  {
+    "time_sec": 186.247,
+    "minecraft_tick": 3725,
+    "type": "beat",
+    "original_tick": 3724
+  },
+  {
+    "time_sec": 186.99,
+    "minecraft_tick": 3740,
+    "type": "beat",
+    "original_tick": 3739
+  },
+  {
+    "time_sec": 186.99,
+    "minecraft_tick": 3740,
+    "type": "onset",
+    "original_tick": 3739
+  },
+  {
+    "time_sec": 187.617,
+    "minecraft_tick": 3752,
+    "type": "beat",
+    "original_tick": 3752
+  },
+  {
+    "time_sec": 187.617,
+    "minecraft_tick": 3752,
+    "type": "onset",
+    "original_tick": 3752
+  },
+  {
+    "time_sec": 187.919,
+    "minecraft_tick": 3758,
+    "type": "onset",
+    "original_tick": 3758
+  },
+  {
+    "time_sec": 188.244,
+    "minecraft_tick": 3765,
+    "type": "onset",
+    "original_tick": 3764
+  },
+  {
+    "time_sec": 188.267,
+    "minecraft_tick": 3765,
+    "type": "beat",
+    "original_tick": 3765
+  },
+  {
+    "time_sec": 188.894,
+    "minecraft_tick": 3778,
+    "type": "onset",
+    "original_tick": 3777
+  },
+  {
+    "time_sec": 188.918,
+    "minecraft_tick": 3778,
+    "type": "beat",
+    "original_tick": 3778
+  },
+  {
+    "time_sec": 188.941,
+    "minecraft_tick": 3779,
+    "type": "onset",
+    "original_tick": 3778
+  },
+  {
+    "time_sec": 189.289,
+    "minecraft_tick": 3786,
+    "type": "onset",
+    "original_tick": 3785
+  },
+  {
+    "time_sec": 189.591,
+    "minecraft_tick": 3792,
+    "type": "beat",
+    "original_tick": 3791
+  },
+  {
+    "time_sec": 189.893,
+    "minecraft_tick": 3798,
+    "type": "onset",
+    "original_tick": 3797
+  },
+  {
+    "time_sec": 190.264,
+    "minecraft_tick": 3805,
+    "type": "beat",
+    "original_tick": 3805
+  },
+  {
+    "time_sec": 190.636,
+    "minecraft_tick": 3813,
+    "type": "onset",
+    "original_tick": 3812
+  },
+  {
+    "time_sec": 190.961,
+    "minecraft_tick": 3819,
+    "type": "beat",
+    "original_tick": 3819
+  },
+  {
+    "time_sec": 190.961,
+    "minecraft_tick": 3819,
+    "type": "onset",
+    "original_tick": 3819
+  },
+  {
+    "time_sec": 191.309,
+    "minecraft_tick": 3826,
+    "type": "onset",
+    "original_tick": 3826
+  },
+  {
+    "time_sec": 191.983,
+    "minecraft_tick": 3840,
+    "type": "onset",
+    "original_tick": 3839
+  },
+  {
+    "time_sec": 192.261,
+    "minecraft_tick": 3845,
+    "type": "onset",
+    "original_tick": 3845
+  },
+  {
+    "time_sec": 192.586,
+    "minecraft_tick": 3852,
+    "type": "onset",
+    "original_tick": 3851
+  },
+  {
+    "time_sec": 192.749,
+    "minecraft_tick": 3855,
+    "type": "onset",
+    "original_tick": 3854
+  },
+  {
+    "time_sec": 193.027,
+    "minecraft_tick": 3861,
+    "type": "onset",
+    "original_tick": 3860
+  },
+  {
+    "time_sec": 193.538,
+    "minecraft_tick": 3871,
+    "type": "onset",
+    "original_tick": 3870
+  },
+  {
+    "time_sec": 196.371,
+    "minecraft_tick": 3927,
+    "type": "onset",
+    "original_tick": 3927
+  }
+]
