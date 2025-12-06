@@ -1,0 +1,3 @@
+# 本项目兼容Python 3.12
+litemapy==1.5.0
+numpy==1.26.0
